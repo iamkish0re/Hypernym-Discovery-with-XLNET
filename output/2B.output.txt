@@ -1,0 +1,500 @@
+fluid	gas	atmosphere	phenomenon	space	environment	flow	surface	pressure	medium	space travel	
+theater	theatre	drama	opera	show	classical	presentation	composition	performance	entertainment	performance art	
+instrument	wind	wind instrument	keyboard	keyboard instrument	wood	drum	brass	brass instrument	string	string instrument	pipe	flute	bass	bass instrument	pipe organ	wind chime	bass drum	drum machine	bass guitar	flute player	string bass	
+pop	rock	pop rock	era	glamour	look	contemporaries	contemporary	fashion	trend	pop culture	pop metal	
+scrap	shred	paper	cut	scrap metal	excerpt	code	copy	reduction	cut out	cut down	cut up	cut off	cut away	
+rock	pop	pop rock	jazz	rock music	rock band	punk	punk rock	metal	contemporary	alternative	alternative rock	classical	pop punk	pop metal	pop music	alternative metal	punk jazz	classical music	classical style	punk music	
+instrument	string	string instrument	wind	wind instrument	wood	keyboard	keyboard instrument	bass	bass instrument	guitar	musician	brass	brass instrument	violin	bass guitar	string bass	bass clarinet	bass voice	guitar player	violin bow	
+vocal	composition	function	song	medium	track	storage	album	single	signal	single track	storage space	
+rock	pop	contemporary	country	alternative	folk	classical	composition	pop rock	pop music	folk rock	country pop	pop punk	country rock	alternative rock	country folk	folk song	alternative country	folk punk	contemporary folk	country music	
+singer	presentation	speech	singing	vocalist	language	air	voice	performance	melody	air show	speech impediment	singing voice	
+equipment	instrument	implement	block	board	hammer	wood	shape	model	board game	wood block	
+vocal	release	song	single	function	track	storage	album	medium	composition	single track	storage space	
+musician	composer	writer	poet	vocalist	person	album	storage	singer	function	storage space	
+recording	medium	storage	signal	video	video recording	album	audio	show	channel	movie	audio recording	audio signal	storage space	
+alley	street	lane	thoroughfare	way	route	track	avenue	freeway	way out	roadway	
+classical	classical music	classical style	composition	opera	theatre	classic	theater	performance	drama	performance art	
+classical	composition	opera	classical music	movement	technique	classic	quartet	task	
+song	track	single	signal	vocal	composition	release	single track	storage	medium	function	
+instrument	string	string instrument	harp	guitar	wind	wind instrument	keyboard	keyboard instrument	wood	flute	bow	plucked	plucked instrument	flute player	
+dance	composition	jazz	track	song	salsa	dance music	rhythm	beat	dancing	march	jazz dance	jazz standard	salsa music	
+instrument	wood	wind	wind instrument	keyboard	keyboard instrument	guitar	string	string instrument	harp	flute	brass	pipe	brass instrument	pipe organ	flute player	guitar player	
+band	team	person	musician	rock	rock band	company	troupe	signal	medium	company name	rock group	
+instrument	string	string instrument	wind	wind instrument	wood	guitar	harp	keyboard	keyboard instrument	flute	air	tune	string bass	flute player	
+instrument	keyboard	artifact	keyboard instrument	wood	equipment	drum	guitar	brass	brass instrument	antique	string	string instrument	drum set	
+composition	team	jazz	band	dance	rhythm	tune	rock	classical	rock band	jazz dance	rock music	
+composition	anthem	song	tune	track	vocal	hymn	melody	strain	air	air show	
+composition	vocal	singer	vocalist	voice	tune	folk	classical	performance	melody	folk singer	folk song	
+instrument	drum	guitar	keyboard	keyboard instrument	wood	string	string instrument	stick	organ	bass	bass instrument	wind	wind instrument	drum beat	bass drum	bass guitar	stick figure	bass note	
+composition	book	composer	classical	specifications	storage	task	track	recording	classical music	recording equipment	storage space	
+instrument	string	string instrument	wood	guitar	keyboard	keyboard instrument	wind	wind instrument	tune	harp	musician	pipe	pipe organ	guitar player	
+dance	vocal	instrument	song	musician	composition	person	singer	tune	dance music	vocal music	
+folk	folk song	tune	pop	composition	country	folk music	country folk	song	folk rock	track	ethnic	folks	country pop	pop music	country music	pop rock	ethnic music	
+function	medium	storage	album	signal	repetition	repeating	task	song	audio	audio signal	signal processing	audio recording	
+team	band	storage	function	album	signal	medium	composition	person	task	signal processing	task force	
+jazz	blues	folk	composition	pop	rhythm	rock	beat	tune	folk song	pop rock	rock music	folk music	pop music	
+composition	vocal	track	song	storage	medium	classical	album	band	function	vocal band	
+country	salsa	rock	contemporary	pop	jazz	folk	country pop	country rock	pop rock	pop music	country music	rock music	country folk	folk rock	salsa music	folk music	folk song	
+instrument	string	string instrument	wood	wind	wind instrument	keyboard	keyboard instrument	harp	drum	guitar	flute	brass	brass instrument	flute player	
+flick	video	web	movie	film	show	medium	picture	story	film series	series	picture show	web site	picture book	web series	video recording	
+era	age	contemporary	pop	technology	movement	philosophy	day	generation	rock	age group	pop rock	rock music	pop music	pop culture	
+dance	classical	composition	movement	opera	film	dance film	movie	ballad	show	film genre	movie theater	movie film	
+rock	rock band	band	person	album	team	musician	metal	storage	function	classical	rock group	storage space	
+composition	jazz	song	tune	vocal	folk	track	specifications	blues	show	folk song	vocal jazz	jazz standard	folk dance	
+improvisation	jazz	composition	performance	show	presentation	track	song	speech	language	
+instrument	keyboard	keyboard instrument	guitar	drum	string	string instrument	bass	bass instrument	wood	wind	wind instrument	harp	brass	brass instrument	bass guitar	bass drum	bass note	drum beat	string bass	
+metal	rock	pop	punk	alternative	contemporary	alternative rock	pop rock	rock music	heavy	metallic	industrial	punk rock	alternative metal	rock band	industrial rock	pop punk	pop metal	pop music	punk music	heavy metal	industrial metal	industrial music	
+musician	composer	pianist	person	leader	conductor	vocalist	singer	guitarist	writer	
+punk	punk rock	person	rock	teenager	juvenile	teen	radical	contemporary	girl	youth	juvenile delinquent	youth movement	youth culture	rock band	teen pop	
+signal	album	medium	storage	function	task	recording	repetition	repeating	release	task force	storage space	
+language	song	speech	presentation	composition	vocal	track	performance	singing	show	
+album	function	single	song	medium	composition	storage	signal	vocal	track	single track	vocal band	storage space	
+story	opera	tale	composition	drama	narrative	picture	fantasy	fiction	narration	picture show	picture book	picture frame	
+composition	track	classical	dance	march	movement	song	vocal	passage	
+instrument	drum	keyboard	keyboard instrument	guitar	wood	musician	wind	wind instrument	brass	brass instrument	bass	bass instrument	harp	drum beat	bass drum	bass guitar	bass note	bass guitarist	brass band	
+instrument	brass	bass	wind	wind instrument	brass instrument	bass instrument	wood	musician	person	flute	clarinet	pipe	bass clarinet	pipe organ	flute player	
+album	storage	medium	signal	function	movie	picture	audio	show	song	movie theater	audio signal	picture show	audio recording	audio drama	
+punk	punk rock	rock	contemporary	contemporaries	teen	teenager	generation	pop	youth	pop punk	juvenile	pop rock	teen pop	youth culture	pop culture	youth movement	
+composition	singing	performance	vocal	song	track	presentation	speech	opera	language	opera singer	
+composition	vocal	opera	track	classical	song	performance	show	presentation	singer	opera singer	performance art	
+composition	introduction	specifications	opening	speech	presentation	note	prelude	show	song	show business	
+medium	song	storage	album	function	single	track	signal	vocal	release	single track	
+route	freeway	infrastructure	thoroughfare	expressway	way	motorway	street	way out	
+composition	rhythm	specifications	melody	air	tune	march	passage	beat	strain	
+instrument	bell	mechanism	equipment	drum	artifact	hammer	board	wood	string	string instrument	drum beat	
+instrument	keyboard	keyboard instrument	string	string instrument	wind	wind instrument	guitar	wood	harp	flute	piano	musician	piano keyboard	guitar player	flute player	piano player	
+instrument	string	string instrument	wind	wind instrument	guitar	keyboard	keyboard instrument	violin	wood	bass	bass instrument	plucked	viol	plucked instrument	string bass	bass guitar	guitar player	violin bow	
+singer	vocalist	voice	vocal	performance	singing	person	tone	presentation	composition	singing voice	vocal register	
+release	vocal	single	song	track	composition	medium	function	album	storage	single track	storage space	
+jazz	pop	country	composition	blues	tune	country pop	specifications	swing	rock	folk	swing jazz	pop rock	jazz standard	country blues	country folk	pop music	country music	country rock	rock music	folk music	folk song	folk rock	
+composition	classical	opera	band	task	album	team	storage	song	function	storage space	
+band	composition	team	orchestra	voice	tune	quartet	backup	person	backup band	
+task	task force	campaign	war	expedition	team	crusade	venture	band	movement	undertaking	venture capital	
+image	picture	figure	picture show	graphic	evidence	photograph	illustration	film	technology	show	show off	
+team	band	storage	album	medium	function	signal	person	composition	song	
+instrument	organ	keyboard	keyboard instrument	pipe	pipe organ	flute	mechanism	bell	wind	wind instrument	wood	organs	flute player	
+instrument	bell	wind	wind instrument	whistle	pipe	wood	flute	mechanism	brass	sound	brass instrument	pipe organ	wind chime	flute player	
+album	movie	picture	signal	medium	storage	function	recording	film	release	movie theater	picture show	film series	film release	storage space	
+specifications	form	narrative	composition	language	list	verse	text	method	speech	verse form	text file	narrative mode	
+team	function	band	storage	medium	album	person	firm	signal	company	
+technology	engineering	telecom	techno	equipment	medium	computer	signal	software	signal processing	computer technology	software engineering	computer software	software program	computer engineering	computer system	
+team	band	medium	function	storage	album	signal	person	composition	rock	rock band	signal processing	rock group	
+album	storage	signal	function	track	song	recording	person	band	medium	storage space	
+instrument	bell	wood	string	string instrument	equipment	organ	brass	keyboard	keyboard instrument	brass instrument	bells	guitar	bell tower	string quartet	
+team	function	storage	band	signal	album	medium	person	task	composition	task force	
+band	team	function	storage	album	medium	signal	person	rock	task	rock band	task force	rock group	
+band	team	storage	signal	album	function	rock	person	medium	rock band	song	rock group	
+corporation	enterprise	venture	company	picture	show	film	movie	studio	picture show	depicting	film making	movie making	venture capital	film company	show business	movie theater	show biz	film maker	studio recording	movie theatre	film producer	studio album	film production	
+addition	growth	enlargement	increase	improvement	procedure	expansion	introduction	surgery	
+person	vocalist	singer	writer	musician	poet	medium	composer	leader	vocal	
+song	vocal	track	composition	language	singing	anthem	speech	performance	presentation	
+rock	pop	rock music	country	country rock	metal	punk	jazz	contemporary	classical	pop music	country pop	pop metal	pop punk	pop rock	country music	country folk	punk music	punk rock	classical music	classical style	
+band	team	rock	rock band	person	punk	punk rock	musician	medium	storage	function	rock group	
+instrument	guitar	guitarist	string	string instrument	guitar player	musician	keyboard	keyboard instrument	chord	plucked	plucked instrument	wood	person	string bass	
+instrument	wind	wind instrument	wood	saxophone	musician	saxophonist	clarinet	brass	flute	brass instrument	pipe	flute player	pipe organ	
+folk	pop	folk rock	contemporary	contemporary folk	rock	folks	country	country folk	folk music	contemporaries	person	regional	pop rock	pop music	country pop	pop punk	country people	rock music	country rock	
+show	entertainment	jazz	improvisation	presentation	show business	show biz	performance	composition	comedy	movie	film	jazz standard	movie theater	performance art	movie making	film making	movie theatre	comedy film	
+album	song	signal	vocalist	medium	singer	storage	person	function	track	storage space	
+country	country pop	country music	western	composition	pop	state	show	jazz	classical	jazz standard	pop music	western music	classical music	classical style	
+equipment	instrument	basin	board	appliance	artifact	surface	platform	console	implement	surface area	
+paper	sheet	evidence	list	form	figure	specifications	sheet metal	measure	backup	figure out	
+instrument	wind	wind instrument	brass	brass instrument	wood	trumpet	saxophone	flute	clarinet	musician	bass	bass instrument	trumpet player	flute player	bass clarinet	bass saxophone	
+instrument	wind	wind instrument	brass	brass instrument	wood	pipe	clarinet	bass	flute	bass instrument	keyboard	trumpet	keyboard instrument	pipe organ	bass clarinet	flute player	bass drum	trumpet player	
+vocal	track	song	composition	tune	anthem	ballad	melody	folk	single	folk song	single track	folk ballad	
+wind	wind instrument	instrument	wood	saxophone	musician	saxophonist	brass	clarinet	bass	brass instrument	flute	bass instrument	bass saxophone	bass clarinet	flute player	
+rock	pop	rock music	punk	contemporary	alternative	alternative rock	metal	country	country rock	pop punk	pop metal	pop music	country pop	pop rock	alternative metal	alternative country	punk rock	punk music	country music	
+rock	punk	punk rock	contemporary	pop	contemporaries	pop rock	generation	pop punk	alternative	youth	alternative rock	era	metal	pop culture	pop metal	youth culture	youth movement	pop music	alternative metal	
+musician	person	guitarist	vocalist	composer	function	singer	poet	writer	album	
+composition	melody	mixture	tune	technique	composing	improvisation	strain	texture	
+album	medium	signal	storage	function	recording	song	release	track	audio	signal processing	audio signal	audio recording	storage space	
+support	help	assistance	contribution	participation	supporter	backup	aid	helping	helping hand	help out	backup band	
+software	server	code	host	company	application	service	software program	person	app	corporation	code name	
+rock	contemporary	country	pop	punk	alternative	folk	pop rock	punk rock	pop punk	country rock	pop music	folk rock	country pop	alternative rock	country folk	contemporary folk	alternative country	folk punk	country music	folk song	
+album	team	signal	band	storage	medium	function	person	recording	task	task force	
+rock	pop	country	country rock	rock music	folk	punk	metal	contemporary	alternative	alternative rock	classical	pop punk	country pop	pop metal	pop music	pop rock	folk metal	folk punk	country folk	country music	folk music	folk rock	alternative country	contemporary folk	punk rock	alternative metal	classical style	classical music	
+musician	person	leader	composer	jazz	guitarist	pianist	saxophonist	conductor	jazz musician	direction	
+instrument	wind	wind instrument	wood	bass	brass	brass instrument	drum	bass instrument	flute	clarinet	keyboard	keyboard instrument	string	string instrument	bass clarinet	bass note	bass drum	brass band	brass section	flute player	string bass	string section	
+storage	function	team	band	signal	album	medium	person	task	audio	audio signal	signal processing	task force	audio recording	
+rock	punk	punk rock	hardcore	contemporary	contemporaries	pop	hardcore punk	metal	pop rock	pop punk	teen	youth	alternative	alternative rock	rock band	rock music	teen pop	youth culture	pop metal	pop culture	youth movement	alternative metal	pop music	
+opera	theater	theatre	drama	classical	comedy	dramatic	show	tragedy	entertainment	classical style	dramatic performance	comedy music	
+drama	composition	opera	story	picture	movie	theater	film	narration	show	picture show	movie theater	drama film	movie theatre	picture book	film making	movie film	movie making	
+medium	storage	function	album	release	vocal	signal	song	single	composition	single track	
+country	folk	country folk	tune	song	pop	country pop	folk song	country music	composition	track	folk music	melody	state	pop music	
+dance	show	film	picture	sail	picture show	textile	sailing	entertainment	presentation	boat	dance film	sailing boat	film genre	sailing ship	film making	picture frame	
+competitor	person	athlete	contestant	sport	boxer	fighter	competition	pitcher	contest	
+composition	passage	route	infrastructure	tract	excerpt	segment	way	freeway	way out	
+instrument	drum	keyboard	keyboard instrument	drum machine	equipment	platform	drummer	bass	pedal	snare	snare drum	mechanism	bass drum	bass instrument	bass guitar	
+dance	composition	song	track	dance music	jazz	march	salsa	show	dancing	rhythm	jazz dance	jazz standard	salsa music	
+writer	person	poet	composer	vocalist	musician	singer	speaker	painter	intellectual	
+instrument	wind	wind instrument	wood	bell	brass	keyboard	brass instrument	keyboard instrument	harp	tune	flute	musician	wind chime	flute player	
+recording	reproduction	storage	repetition	repeating	function	performance	transmission	processing	audio	audio recording	audio processing	audio signal	
+dance	composition	show	dancing	salsa	jazz	track	song	ballroom	classical	ballroom dance	ballroom dancing	jazz dance	salsa music	jazz standard	ballroom music	classical style	
+wind	wind instrument	wood	brass	brass instrument	instrument	flute	pipe	clarinet	air	saxophone	bell	pipe organ	flute player	brass band	
+strain	tune	melody	air	theme	composition	voice	motif	passage	phrase	
+person	team	band	album	storage	medium	function	musician	firm	signal	storage space	
+composition	track	vocal	song	tune	ballad	anthem	passage	hymn	classical	
+rock	pop	contemporary	alternative	techno	classical	jazz	punk	pop rock	punk rock	pop punk	alternative rock	alternative country	punk jazz	
+team	band	storage	album	function	signal	medium	person	task	composition	signal processing	task force	
+composition	salsa	tune	country	song	track	jazz	dance	folk	salsa music	folk song	country music	dance music	country folk	country dance	folk dance	folk music	
+animal	cart	horse	textile	instrument	cloth	cushion	move	vehicle	person	horse race	
+instrument	wind	wind instrument	brass	brass instrument	wood	drum	bass	bass instrument	keyboard	keyboard instrument	trumpet	saxophone	guitar	bass drum	bass guitar	bass clarinet	bass saxophone	drum machine	trumpet player	
+rock	pop	pop rock	rock music	country	country rock	metal	classical	punk	punk rock	contemporary	pop music	pop metal	country pop	folk	pop punk	jazz	folk rock	country music	country folk	folk metal	classical music	classical style	folk music	folk punk	punk music	
+medium	album	storage	function	signal	release	single	song	composition	vocal	single track	storage space	
+person	instrument	weapon	possession	competitor	racket	textile	equipment	animal	protection	animal skin	
+vocal	composition	track	song	folk	tune	folk song	pop	ballad	voice	anthem	folk ballad	
+pop	jazz	composition	country	rock	song	folk	tune	pop rock	blues	country pop	pop music	jazz standard	folk song	rock music	country music	country folk	country rock	folk rock	folk music	country blues	
+person	specifications	etiquette	code	virtue	sensitivity	sensibility	protocol	code name	
+musician	composition	jazz	singer	vocalist	country	person	tune	salsa	jazz musician	country music	country folk	salsa music	
+tune	composition	vocal	melody	track	band	song	folk	vocal band	voice	harp	folk song	folk dance	folk ballad	
+pop	track	singer	vocal	song	vocalist	rock	tune	person	female	pop rock	vocal jazz	
+signal	storage	medium	team	band	album	person	function	recording	repetition	recording equipment	recording studio	
+band	team	composition	orchestra	musician	company	jazz	personnel	backup	strain	jazz band	backup band	jazz musician	jazz group	
+song	speech	demonstration	vocal	performance	language	composition	track	anthem	presentation	
+composition	performance	singing	vocal	vocalist	singer	show	presentation	language	track	
+demonstration	performance	language	speech	presentation	show	singing	singer	vocalist	entertainment	performance art	
+medium	person	singer	vocalist	storage	musician	album	writer	poet	function	storage space	
+show	comedy	folk	entertainment	picture	picture show	humor	dance	performance	presentation	theater	folk song	show time	folk ballad	folk dance	folk music	performance art	
+composition	classical	pop	jazz	folk	tune	country	track	folk music	ethnic	folk song	classical music	country pop	country folk	classical style	pop rock	country music	pop music	ethnic music	
+country	coast	map	terrain	route	city	way	coastline	mapping	state	way out	city center	city centre	state line	
+wind	wood	instrument	flute	wind instrument	brass	bell	brass instrument	clarinet	organ	pipe	pipe organ	flute player	
+person	writer	musician	poet	singer	composer	vocalist	song	songwriter	medium	
+pop	composition	jazz	rock	pop rock	techno	contemporary	track	classical	beat	pop music	rock music	classical style	classical music	contemporary folk	contemporary dance	
+introduction	text	passage	extract	excerpt	quote	verse	narrative	speech	narration	text file	
+strain	air	composition	noise	trumpet	melody	sound	tune	note	tone	air show	noise level	sound recording	sound wave	
+rock	pop	rock music	metal	punk	classical	contemporary	alternative	alternative rock	jazz	country	country rock	pop metal	pop punk	pop music	country pop	pop rock	alternative metal	classical music	country music	classical style	punk rock	punk music	alternative country	country folk	
+city	person	site	stone	quarry	sculptor	statue	artifact	sculpture	studio	city center	studio album	city centre	city hall	studio recording	
+country	coast	map	terrain	route	coastline	mapping	city	direction	extent	city center	city centre	map out	
+jazz	blues	country	composition	improvisation	pop	swing	swing jazz	contemporary	country blues	country pop	country music	pop music	swing music	contemporary blues	
+team	band	storage	signal	person	function	album	medium	rock	recording	rock band	rock group	
+pop	rock	pop rock	jazz	pop music	contemporary	rock music	composition	folk	classical	punk	popular	punk rock	folk rock	folk music	folk song	classical music	contemporary folk	folk metal	classical style	popular music	punk music	punk jazz	
+album	signal	storage	function	medium	team	band	repetition	person	repeating	storage space	
+tune	strain	melody	air	theme	composition	motif	voice	passage	phrase	
+plant	animal	flower	vegetable	seed	textile	pearl	cereal	rock	animal skin	
+composition	march	melody	strain	specifications	passage	air	speech	tune	rhythm	
+rock	pop	pop rock	techno	dance	party	dance pop	contemporary	punk	punk rock	rock music	rock band	track	jazz	pop punk	disco	pop culture	pop music	dance music	contemporary dance	jazz dance	disco music	
+instrument	string	string instrument	guitar	keyboard	keyboard instrument	wood	wind	wind instrument	musician	plucked	plucked instrument	violin	bass	bass instrument	guitar player	bass guitar	string bass	violin bow	bass guitarist	
+album	medium	storage	function	release	song	signal	single	track	movie	single track	movie theater	movie theatre	storage space	
+instrument	cabinet	mechanism	equipment	console	speaker	circuit	enclosure	component	speaker system	
+rock	metal	rock music	pop	pop rock	punk	punk rock	rock band	pop metal	jazz	composition	contemporary	industrial	industrial rock	industrial metal	pop music	pop punk	punk music	industrial music	punk jazz	
+performance	presentation	singing	language	show	speech	vocalist	singer	song	demonstration	
+quote	extract	narration	speech	error	reference	saying	excerpt	fault	cite	fault line	
+composition	introduction	passage	melody	tune	prelude	strain	air	solo	vocal	air show	
+pop	classical	folk	country	classic	country pop	jazz	composition	pop rock	vocal	track	pop music	rock	vocal pop	classical music	folk song	country folk	folk music	jazz standard	classic country	classic rock	country music	vocal jazz	rock music	
+function	storage	medium	album	signal	band	composition	team	vocal	single	vocal band	single track	storage space	
+drum	instrument	bell	brass	drum beat	brass instrument	wood	wind	keyboard	keyboard instrument	bell tower	sound	wind instrument	organ	mechanism	wind chime	
+storage	album	signal	medium	function	task	repetition	vocal	release	track	storage space	
+blues	tune	folk	composition	vocal	song	vocal blues	jazz	track	country	country blues	gospel	gospel blues	folk song	vocal jazz	country folk	jazz standard	
+writer	person	musician	composer	actor	poet	guitarist	singer	playwright	vocalist	
+classical	composition	quartet	team	jazz	trio	task	series	country	classical music	classical style	country pop	country music	
+person	competitor	footballer	athlete	leader	coach	boss	chief	trainer	actor	chief executive	
+polygon	shape	figure	form	triangle	plan	fault	image	map	icon	figure out	
+jazz	composition	pop	improvisation	blues	classical	folk	country	tune	pop music	pop rock	folk music	folk song	country pop	country blues	classical music	classical style	country music	country folk	
+album	function	storage	medium	signal	release	single	track	song	audio	single track	audio signal	storage space	audio recording	
+pop	jazz	country	pop rock	folk	rock	pop music	composition	contemporary	tune	song	folk rock	country rock	country folk	folk song	rock music	country pop	contemporary folk	
+equipment	mechanism	instrument	speaker	component	technology	detector	microphone	receiver	speaker system	
+team	band	person	storage	album	rock	medium	rock band	function	signal	musician	signal processing	
+elevation	mountain	terrain	mount	mountain range	volcano	city	hill	peak	ridge	mountain peak	
+instrument	drum	guitar	keyboard	musician	keyboard instrument	drummer	bass	bass instrument	wood	wind	brass	brass instrument	wind instrument	bass drum	bass guitar	bass guitarist	brass band	
+wind	bass	instrument	wind instrument	clarinet	wood	brass	air	voice	tune	bass voice	bass clarinet	flute	bass instrument	brass instrument	bass note	brass band	brass section	flute player	
+rock	pop	pop rock	punk	rock music	metal	contemporary	alternative	alternative rock	pop punk	jazz	pop metal	pop music	pop culture	punk music	punk rock	alternative metal	alternative country	
+strain	stress	contraction	pull	effort	tension	phenomenon	fault	difficulty	injury	pull out	
+medium	album	vocal	storage	single	song	release	composition	signal	function	single track	storage space	
+person	musician	composer	storage	album	recording	medium	function	composition	band	recording studio	storage space	
+instrument	wood	brass	brass instrument	string	string instrument	bell	wind	wind instrument	equipment	keyboard	keyboard instrument	tone	organ	brass band	string quartet	
+musician	singer	person	composer	vocalist	actor	leader	conductor	guitarist	pianist	
+extract	quote	excerpt	text	passage	cite	narration	reference	verse	reproduction	reference point	
+composition	passage	track	movement	selection	vocal	performance	storage	song	performance art	storage space	
+rap	rap rock	pop	jazz	pop rap	rap music	rock	jazz rap	contemporary	hop	reggae	hip	alternative	pop rock	hip hop	reggae rock	rock music	pop culture	pop music	pop punk	alternative rock	
+musician	composer	writer	person	guitarist	poet	vocalist	singer	leader	pianist	
+weapon	figure	equipment	person	instrument	specifications	artifact	weaponry	clothing	flag	
+blues	tune	song	folk	composition	jazz	vocal	vocal blues	track	country	country blues	gospel	gospel blues	folk song	vocal jazz	jazz standard	country folk	
+tone	state	technique	portrayal	performance	proficiency	specifications	show	composition	depiction	
+rock	pop	jazz	punk	punk rock	reggae	pop rock	country	country rock	contemporary	dance	reggae rock	country pop	rock music	pop punk	dance pop	pop music	punk jazz	country dance	dance music	contemporary dance	
+measure	mapping	specifications	measurement	measuring	category	map	series	chord	ratio	
+instrument	wind	wind instrument	harp	flute	wood	keyboard	keyboard instrument	guitar	piano	string	string instrument	violin	flute player	piano keyboard	violin bow	string bass	
+signal	single	storage	medium	release	album	composition	function	recording	song	single track	
+person	noun	singer	vocalist	surname	song	musician	medium	poet	woman	poet laureate	
+musician	person	composer	writer	leader	guitarist	poet	producer	administrator	vocalist	
+album	signal	medium	storage	release	function	vocal	song	single	track	single track	storage space	
+vocal	composition	song	opera	track	classical	tune	singer	singing	folk	folk song	classical music	singing voice	folk music	folk singer	folk ballad	
+person	filmmaker	actor	painter	composer	producer	film	theater	theatre	film producer	film maker	theater director	theatre director	film director	theater company	theatre company	film making	film actor	
+dance	classical	composition	movement	show	dancing	jazz	folk	technique	folk dance	jazz dance	classical style	classical music	folk music	folk song	folk dancing	
+strain	tune	melody	improvisation	composition	theme	mixture	texture	tone	air	air flow	air show	
+person	jurist	judge	justice	lawyer	attorney	chief	attorney general	advocate	writer	leader	chief executive	
+pop	rock	contemporary	pop rock	generation	wave	punk	technology	punk rock	techno	movement	era	rock music	pop punk	pop culture	pop music	
+wind	wind instrument	instrument	clarinet	wood	bass	flute	brass	musician	bass instrument	brass instrument	bass clarinet	string	saxophone	string instrument	flute player	bass saxophone	string bass	
+dance	dancing	show	composition	figure	presentation	ceremony	attire	movement	picture	picture show	
+sound	sensation	impression	sense	phenomenon	perception	vibration	tone	sound wave	echo	atmosphere	
+writer	person	poet	chief	chief executive	leader	journalist	composer	musician	politician	actor	
+jazz	blues	country	pop	swing	swing jazz	improvisation	classical	composition	country blues	pop music	country pop	country music	swing music	classical style	
+classical	classical music	classical style	classical period	jazz	composition	pop	classic	country	opera	rock	country music	pop rock	pop music	country pop	rock music	country folk	classic country	
+march	composition	marching	specifications	demonstration	jazz	show	tune	performance	anthem	marching band	
+signal	storage	medium	function	occasion	album	recording	release	season	repetition	
+composition	song	anthem	track	vocal	tune	hymn	strain	melody	march	
+person	storage	band	firm	medium	company	enterprise	musician	album	surname	storage space	company name	
+reduction	removal	cutting	cutting out	cut	separation	trimming	selection	slicing	decrease	reducing	cut out	cutting off	cut off	cut away	cut back	cut down	cut up	
+composition	classical	march	technique	composing	performance	specifications	classical music	marching	classical style	marching music	marching band	
+medium	signal	storage	album	reproduction	function	release	person	recording	audio	audio signal	audio recording	recording equipment	
+composer	musician	writer	person	vocalist	poet	album	storage	singer	function	storage space	
+pop	pop rock	classical	composition	pop music	jazz	folk	rock	song	country	country pop	tune	contemporary	folk song	classical music	folk music	classical style	country folk	jazz standard	country music	rock music	contemporary folk	
+classical	composition	opera	classical music	classical style	performance	technique	theatre	presentation	theater	performance art	
+instrument	hammer	implement	club	weapon	equipment	handle	drum	artifact	club member	drum beat	
+country	state	person	city	language	state government	surname	country music	republic	composition	race	province	state capital	city center	city centre	race horse	race track	
+film	picture	movie	motion	motion picture	signal	transmission	function	movement	show	person	picture show	movie theater	film crew	movie theatre	
+vocal	composition	singing	track	performance	vocalist	presentation	band	team	song	vocal band	
+composition	track	vocal	song	classical	passage	single	solo	dance	movement	single track	dance band	
+band	team	vocal	composition	voice	vocal band	backup	orchestra	song	vocalist	backup band	
+punk	punk rock	rock	contemporaries	teen	contemporary	teenager	generation	pop	youth	person	pop punk	pop rock	teen pop	youth culture	youth movement	pop culture	
+blues	tune	folk	song	vocal	vocal blues	composition	track	jazz	country	country blues	gospel	gospel blues	folk song	folk ballad	vocal jazz	country folk	jazz standard	
+classical	opera	composition	dance	vocal	drama	theater	classical music	track	theatre	song	dance music	
+country	country blues	blues	jazz	country pop	pop	country folk	country music	country rock	rock	folk	composition	swing	specifications	tune	pop rock	swing jazz	rock music	blues rock	folk song	folk rock	pop music	folk music	pop culture	swing music	
+wood	wind	wind instrument	instrument	flute	pipe	brass	string	string instrument	brass instrument	clarinet	pipe organ	air	flute player	keyboard	keyboard instrument	
+instrument	drum	piano	medium	recording	equipment	press	mechanism	recording equipment	piano player	drum machine	piano keyboard	recording machine	
+techno	pop	rock	dance	contemporary	jazz	industrial	beat	dance pop	disco	composition	pop rock	rock music	industrial rock	dance music	contemporary dance	pop music	beat level	industrial metal	industrial dance	industrial music	
+opera	classical	theater	theatre	drama	dramatic	comedy	show	performance	composition	classical style	classical music	performance art	dramatic performance	comedy music	
+classical	composition	classical music	opera	performance	technique	movement	theater	solo	performance art	
+clothes	clothing	suit	coat	jacket	cloth	textile	fabric	dress	dress code	
+air	strain	melody	tune	voice	passage	composition	vocal	solo	theme	
+folk	folk song	folk music	folk rock	country	country folk	pop	folks	tune	rock	person	regional	contemporary	contemporary folk	pop rock	country pop	pop music	country people	country music	rock music	
+drum	instrument	wind	drum beat	wind instrument	drummer	brass	brass instrument	band	flute	musician	bell	march	brass band	flute player	
+composition	classical	technique	performance	opera	presentation	classical music	classical style	composing	language	track	
+conservative	traditional	contemporary	religion	folk	church	christian	classical	country	gospel	conservative party	country pop	country folk	traditional folk	folk song	contemporary folk	classical style	christian church	church service	folk music	country music	
+team	band	composition	person	quartet	squad	personnel	company	coalition	coalition government	
+singing	speech	language	performance	proficiency	presentation	singer	demonstration	vocalist	harmony	singing voice	
+storage	album	medium	signal	vocal	function	release	song	single	composition	single track	storage space	
+signal	medium	storage	album	function	release	reproduction	audio	task	recording	audio signal	audio recording	storage space	
+humor	humour	comedy	cartoon	amusement	joke	entertainment	comedian	show	prank	amusement park	show biz	show time	
+medium	vocal	storage	album	release	composition	function	track	song	single	single track	storage space	
+melody	tune	strain	motif	theme	air	composition	phrase	passage	chord	
+instrument	keyboard	keyboard instrument	wood	wind	wind instrument	brass	brass instrument	string	string instrument	guitar	bell	bass	bass instrument	drum	bass guitar	bass drum	drum machine	bass note	string bass	
+presentation	show	performance	composition	classical	function	speech	address	theatre	theater	performance art	
+pedal	mechanism	component	controller	gear	circuit	control	switch	valve	move	control board	
+instrument	clarinet	wind	wind instrument	wood	flute	brass	bass	brass instrument	bass clarinet	saxophone	bass instrument	pipe	string	string instrument	pipe organ	flute player	bass saxophone	string bass	
+opera	classical	theatre	theater	drama	show	movie	dramatic	rock	musical	movie theater	rock opera	musical theater	movie theatre	musical theatre	classical music	musical drama	musical comedy	rock musical	dramatic performance	musical composition	rock music	
+instrument	keyboard	keyboard instrument	string	string instrument	wind	wind instrument	guitar	piano	wood	flute	harp	organ	piano keyboard	flute player	
+rock	punk	punk rock	person	contemporary	metal	teenager	stone	musician	hardcore	teen	hardcore punk	teen pop	
+song	vocal	track	composition	anthem	speech	language	singing	tune	ballad	singing voice	
+blues	tune	composition	song	jazz	vocal	vocal blues	track	folk	country	country blues	strain	folk song	vocal jazz	jazz standard	country folk	
+entertainment	show	performance	movement	amusement	presentation	function	composition	party	demonstration	show biz	performance art	
+jazz	pop	improvisation	composition	swing	swing jazz	classical	contemporary	country	blues	pop music	country pop	country blues	classical style	country music	contemporary blues	swing music	
+application	server	software	app	person	channel	service	code	medium	installation	software program	code name	installation art	
+air	tune	voice	melody	strain	bass	composition	accompaniment	bass voice	texture	theme	bass note	
+repetition	repeating	procedure	serial	methodology	series	specifications	method	logic	
+drum	instrument	brass	wood	brass instrument	bell	bass	wind	keyboard	snare	keyboard instrument	bass drum	organ	wind instrument	bass instrument	bass guitar	snare drum	
+musician	person	instrument	wind	drummer	wind instrument	bell	flute	brass	singer	brass instrument	flute player	brass band	
+classical	composition	technique	classical music	specifications	classical style	performance	proficiency	opera	composing	language	presentation	
+instrument	keyboard	keyboard instrument	guitar	string	string instrument	drum	bell	harp	wood	musician	drum beat	
+team	band	storage	function	medium	album	signal	person	composition	task	signal processing	task force	storage space	
+strain	melody	tune	air	voice	theme	composition	motif	vocal	passage	
+air	tune	strain	melody	voice	accompaniment	composition	bass	team	band	bass voice	bass note	
+decrease	decline	reduction	weakening	drop	discount	lessen	contraction	loss	drop off	increase	drop out	drop down	drop back	
+instrument	drum	musician	keyboard	keyboard instrument	wood	bass	bass instrument	wind	wind instrument	guitar	brass	brass instrument	drummer	bass drum	drum beat	bass guitar	bass note	brass band	
+singer	vocalist	musician	person	performance	language	actor	demonstration	show	presentation	performance art	
+composition	vocal	song	track	verse	classical	poem	poetry	language	passage	song book	
+medium	storage	release	album	signal	function	single	vocal	composition	song	single track	storage space	
+song	vocal	track	composition	folk	tune	folk song	language	ballad	anthem	melody	folk ballad	
+composer	writer	musician	poet	vocalist	person	singer	album	storage	function	storage space	
+pop	rock	euro	country	contemporary	punk	alternative	folk	pop rock	euro pop	country pop	pop music	pop punk	punk rock	country rock	rock music	folk rock	alternative rock	country folk	country music	alternative country	folk punk	folk song	folk music	punk music	
+person	musician	singer	writer	composer	actor	vocalist	producer	actress	filmmaker	
+pop	country	rock	contemporary	folk	alternative	punk	pop rock	pop music	pop punk	country pop	country rock	country folk	punk rock	folk rock	rock music	country music	alternative rock	alternative country	contemporary folk	folk punk	folk song	folk music	
+voice	air	melody	tune	bass	strain	bass voice	theme	phrase	chord	passage	
+metal	rock	classical	jazz	heavy	rock music	industrial	pop	metallic	contemporary	rock band	pop rock	industrial rock	classical style	pop metal	pop punk	classical music	pop music	industrial music	heavy metal	industrial metal	
+dance	composition	march	classical	movement	show	track	dancing	jazz	jazz dance	
+composition	classical	folk	performance	presentation	track	tune	vocal	classical music	jazz	classical style	folk song	folk music	vocal music	
+instrument	drum	drum beat	wood	bass	beat	drummer	wind	musician	bass drum	bell	brass	wind instrument	brass instrument	bass instrument	bass guitar	
+classical	folk	composition	folk song	pop	track	country	song	specialty	tune	show	country folk	folk music	folk dance	country pop	classical music	classical style	country music	pop rock	
+person	writer	leader	poet	chief	composer	musician	playwright	actor	politician	chief executive	
+tone	composition	specifications	tune	state	note	performance	melody	harmony	proficiency	
+show	movie	series	film	channel	medium	broadcast	film series	season	picture	flick	picture show	movie theater	picture book	season finale	
+blues	tune	folk	vocal	song	composition	track	vocal blues	folk song	jazz	country	gospel	country blues	gospel blues	folk ballad	vocal jazz	country folk	jazz standard	
+tune	composition	strain	melody	air	vocal	track	passage	song	theme	theme song	
+writer	vocalist	musician	composer	singer	poet	person	album	medium	storage	storage space	
+conclusion	close	ending	end	freeway	closing	composition	route	passage	store	close out	end product	close up	end point	
+plant	sponge	leaf	herb	abrasive	support	implement	instrument	vessel	equipment	support system	
+person	competitor	athlete	sport	writer	actor	leader	contestant	fighter	coach	fighter pilot	
+map	mapping	state	country	economics	making	composition	government	traveling	economy	state government	making out	
+rock	pop	rock music	punk	metal	contemporary	alternative	alternative rock	psychedelic	psychedelic rock	jazz	pop punk	pop metal	psychedelic pop	pop music	pop rock	punk rock	punk music	alternative metal	psychedelic music	alternative country	
+team	band	vocal	voice	orchestra	backup	composition	vocalist	company	troupe	vocal band	backup band	
+track	medium	function	storage	vocal	song	album	single	composition	release	single track	vocal band	
+person	writer	pitcher	competitor	guitarist	boxer	musician	trainer	athlete	fighter	
+jazz	pop	folk	composition	country	gospel	contemporary	country pop	classical	country folk	blues	folk song	contemporary folk	country blues	contemporary blues	
+composition	march	dance	classical	movement	track	passage	tune	air	air show	
+composition	passage	vocal	classical	track	song	opera	medium	solo	anthem	
+song	anthem	track	composition	hymn	verse	scripture	vocal	prayer	text	song book	prayer book	text file	
+medium	storage	song	single	signal	function	album	composition	track	release	single track	
+team	person	band	album	medium	function	signal	storage	recording	recording studio	
+specifications	tone	speech	technique	strain	presentation	melody	air	performance	language	air flow	air show	
+trance	psychedelic	magic	spell	magic spell	psychology	witchcraft	psychedelic drug	phenomenon	disturbance	trance music	state	perception	psychedelic trance	magic trick	
+singer	vocalist	person	musician	voice	vocal	singing	woman	opera	opera singer	performance	voice actor	singing voice	opera star	
+song	hymn	track	composition	vocal	anthem	cry	speech	strain	language	cry out	
+instrument	keyboard	keyboard instrument	piano	grand	equipment	classical	piano keyboard	string	string instrument	grand piano	platform	pianist	specifications	piano player	string bass	
+clothes	fabric	figure	clothing	composition	cloth	texture	textile	attire	equipment	
+instrument	vocalist	musician	singer	wind	composition	flute	wind instrument	keyboard	brass	keyboard instrument	brass instrument	performance	flute player	brass band	
+mixture	composition	arrangement	confection	sweet	combination	concoct	recipe	floral	plant	
+composition	arrangement	melody	tune	composing	strain	team	note	harmony	accompaniment	
+signal	recording	medium	album	storage	function	movie	person	repetition	picture	signal processing	picture show	movie theater	storage space	
+jazz	jazz standard	composition	improvisation	blues	swing	swing jazz	country	pop	classical	country blues	country pop	country music	pop music	swing music	classical style	
+composition	passage	classical	movement	tune	track	song	solo	classical music	
+dance	classical	composition	show	country	ballroom	picture	dancing	state	ballroom dance	song	country dance	picture show	ballroom dancing	classical style	country music	ballroom music	
+album	storage	single	medium	function	composition	vocal	song	track	release	single track	vocal band	storage space	
+album	medium	signal	function	storage	repeating	team	task	band	repetition	signal processing	storage space	
+circuit	component	mechanism	equipment	speaker	controller	amplifier	processor	board	speaker system	
+methodology	innovation	mechanism	engineering	technology	scheme	method	venture	attempt	thinking	venture capital	
+tune	strain	melody	air	voice	band	team	air show	composition	backup	chord	backup band	
+ballroom	hall	club	disco	ballroom dance	dance	party	ballroom dancing	venue	function	entertainment	dance floor	entertainment center	dance hall	
+jazz	composition	pop	beat	track	techno	hop	rap	contemporary	pop music	pop culture	pop rock	rap music	
+tone	note	chord	range	tune	register	moan	melody	state	voice	
+team	band	storage	function	medium	album	signal	person	composition	song	signal processing	
+album	medium	storage	signal	function	recording	task	release	audio	repetition	task force	audio recording	audio signal	storage space	
+writer	vocalist	musician	storage	composer	poet	singer	album	person	medium	
+composition	composing	arrangement	team	musician	specifications	composer	accompaniment	harmony	melody	
+composition	computation	way	excerpt	composing	narration	way out	extract	tract	transmission	segment	
+rock	metal	rock band	rock music	band	stone	team	person	musician	composition	jazz	storage	jazz musician	jazz band	
+team	band	function	album	storage	signal	person	medium	task	recording	task force	recording studio	
+jazz	technique	composition	classical	specifications	improvisation	jazz piano	country	piano	proficiency	jazz standard	classical style	
+classical	drama	opera	theater	theatre	composition	dance	comedy	show	movement	
+wind	wind instrument	instrument	wood	flute	clarinet	brass	bass	pipe	brass instrument	string	string instrument	bass instrument	saxophone	bass clarinet	pipe organ	flute player	string bass	brass band	
+band	team	function	storage	person	album	rock	signal	medium	rock band	composition	signal processing	
+poet	writer	person	composer	vocalist	musician	singer	storage	medium	album	storage space	
+classical	classical music	classical style	classical period	composition	era	classic	technique	opera	country	country music	country pop	country folk	
+album	storage	medium	function	composition	signal	audio	task	song	release	audio signal	storage space	audio recording	signal processing	
+composition	jazz	tune	song	vocal	folk	track	specifications	blues	rhythm	folk song	vocal jazz	jazz standard	folk dance	
+composition	tune	blues	folk	jazz	vocal	song	track	folk song	country	pop	vocal blues	vocal jazz	jazz standard	folk music	country blues	country folk	country music	
+person	athlete	footballer	sport	coach	team	leader	pitcher	writer	competitor	
+tune	voice	melody	air	strain	theme	bass	passage	composition	vocal	bass voice	bass note	
+singing	song	presentation	performance	speech	singer	entertainment	language	vocal	hymn	performance art	
+composition	vocal	song	track	language	classical	show	opera	presentation	performance	
+language	speech	song	demonstration	performance	singing	vocal	presentation	singer	composition	
+composition	vocal	track	song	tune	single	performance	strain	ballad	melody	single track	
+function	signal	album	team	band	storage	medium	rock	composition	task	rock band	signal processing	task force	storage space	rock group	
+rock	pop	metal	rock music	punk	rock band	jazz	classical	country	country rock	composition	folk	alternative	alternative rock	pop punk	pop metal	country pop	folk metal	pop rock	pop music	punk rock	country folk	folk rock	country music	folk music	classical music	alternative metal	folk punk	punk music	alternative country	
+team	band	person	company	firm	storage	album	function	partnership	venture	venture capital	
+musician	composer	vocalist	person	function	album	singer	writer	storage	poet	storage space	
+album	function	storage	signal	repeating	medium	repetition	task	audio	release	signal processing	audio signal	task force	storage space	audio recording	
+love	inclination	reaction	response	passion	love affair	burning	state	desire	impulse	
+musician	person	writer	composer	singer	poet	vocalist	guitarist	actor	pianist	
+team	band	album	medium	storage	person	function	signal	recording	task	signal processing	task force	recording studio	
+instrument	guitar	string	string instrument	guitarist	bass	chord	bass instrument	tune	musician	wood	wind	wind instrument	bass guitar	guitar solo	string bass	bass guitarist	string section	
+opera	classical	composition	drama	vocal	song	storage	performance	theatre	track	performance art	
+song	composition	track	vocal	anthem	hymn	speech	singing	performance	presentation	singing voice	
+vocalist	musician	singer	composer	person	poet	writer	guitarist	vocal	pianist	
+technology	medium	specifications	software	experimentation	methodology	techno	equipment	technique	storage	software engineering	
+passage	extract	composition	excerpt	selection	verse	text	quote	transmission	narration	text file	
+team	band	storage	function	album	signal	medium	person	rock	rock band	composition	rock group	
+language	poetry	speech	philosophy	psychology	sensitivity	sensibility	state	beauty	specifications	
+enterprise	corporation	company	venture	signal	person	album	picture	medium	firm	venture capital	picture show	picture book	
+country	state	map	tract	border	fiction	republic	space	making	space travel	space exploration	making out	
+classical	composition	jazz	classical music	classical style	pop	technique	country	folk	salsa	country pop	country music	pop music	folk music	country folk	salsa music	pop rock	
+rock	contemporary	punk	country	pop	alternative	folk	pop rock	rock music	punk rock	folk rock	alternative rock	country rock	pop punk	country pop	pop culture	pop music	folk punk	country folk	contemporary folk	alternative country	country music	folk metal	alternative metal	
+musician	person	composer	guitarist	writer	vocalist	drummer	singer	leader	poet	
+surface	level	dirt	surface area	terrain	floor	paving	parcel	soil	space	track	
+dance	composition	jazz	salsa	song	track	pop	folk	march	tune	dance music	folk dance	folk song	jazz dance	salsa music	jazz standard	folk music	pop music	folk ballad	
+city	town	city hall	city center	town hall	city centre	township	corporation	facility	government	capital	company	country	site	
+song	vocal	track	composition	anthem	speech	hymn	language	singing	passage	
+obstruction	grate	barrier	appliance	opening	support	equipment	surface	obstacle	protection	
+lie	story	speech	language	deceit	fiction	deceive	tale	deception	narrative	speech impediment	
+book	storage	composition	medium	library	song	text	narrative	opera	song book	storage space	text file	
+folk	folk song	folk music	folk rock	folks	person	country	tune	ethnic	race	native	ethnic group	country people	country folk	country pop	
+country	country music	country pop	classical	composition	pop	state	county	classic	classic country	folk	standard	folk song	classical music	folk music	classical style	pop music	
+composition	passage	movement	track	journey	arrangement	way	task	air	way out	air show	air travel	
+instrument	artifact	wood	icon	animal	cabinet	figure	cushion	image	picture	picture frame	picture book	
+composition	track	passage	vocal	song	task	performance	storage	classical	storage space	classical music	
+person	actor	picture	film	movie	sculpture	motion	motion picture	statue	picture book	video	story	picture show	movie actor	film making	film maker	film series	film actor	movie making	movie theater	movie maker	video recording	motion sickness	
+residence	lodging	housing	clan	residence hall	mansion	apartment	household	apartment building	apartment block	
+writer	person	poet	composer	psychologist	playwright	musician	architect	journalist	scholar	
+movie	show	picture	film	song	movie theater	flick	track	function	single	composition	picture show	movie theatre	single track	
+instrument	string	string instrument	keyboard	keyboard instrument	guitar	equipment	wood	wind	wind instrument	musician	computer	artifact	computer keyboard	guitar player	
+instrument	mechanism	equipment	tape	person	recording	medium	speaker	keyboard	keyboard instrument	tape recorder	recording equipment	tape recording	tape player	tape machine	
+medium	album	signal	function	storage	track	audio	song	channel	recording	audio signal	signal processing	audio recording	
+composer	person	musician	poet	conductor	writer	pianist	singer	classical	painter	poet laureate	
+bell	mechanism	instrument	sound	signal	whistle	wind	noise	signaling	artifact	wind instrument	noise pollution	
+composer	person	musician	actor	conductor	poet	writer	playwright	theatre	theater	poet laureate	theatre director	theater director	theatre company	
+accessibility	language	presentation	entertainment	singing	performance	speech	listening	technology	
+storage	medium	function	team	signal	band	album	person	signal processing	task	composition	task force	
+vocal	song	composition	track	tune	anthem	speech	melody	hymn	strain	
+advocate	reformist	progressive	conservative	person	liberal	politician	ideal	activist	radical	conservative party	liberal party	
+classical	dance	drama	show	theater	theatre	dancing	opera	movement	performance	performance art	theater company	opera company	theatre company	
+composition	classical	opera	vocal	track	song	drama	storage	movement	storage space	
+composition	classical	jazz	dance	folk	tune	show	country	presentation	track	folk dance	jazz standard	jazz dance	dance music	classical style	classical music	folk song	country dance	folk music	country folk	show time	country music	
+composer	person	conductor	musician	pianist	writer	painter	poet	filmmaker	composition	
+medium	album	storage	signal	label	person	single	brand	cookbook	brand name	single person	
+person	writer	musician	boss	actor	chief	leader	composer	chef	producer	chief executive	
+storage	function	medium	team	signal	band	album	person	task	composition	signal processing	task force	storage space	
+composition	melody	strain	tune	movement	air	passage	technique	texture	note	air show	
+march	movement	marching	composition	demonstration	specifications	performance	move	show	motion	motion picture	marching band	move on	
+tape	film	picture	video	flick	tape recording	channel	movie	show	figure	thread	tape measure	video recording	movie film	picture show	picture frame	
+understanding	knowing	insight	perception	conclusion	remembering	realization	awakening	awareness	experience	
+composition	march	tune	air	track	melody	strain	texture	passage	movement	air show	
+rock	pop	punk	rock music	country	country rock	metal	contemporary	pop punk	alternative	alternative rock	pop metal	country pop	pop music	pop rock	punk music	punk rock	country music	alternative metal	alternative country	
+passage	book	composition	gospel	text	speech	person	letter	scripture	song	text file	song book	
+composition	atmosphere	sound	air	ambient	track	soundtrack	noise	environment	noise level	tone	air pressure	sound reproduction	sound recording	air flow	sound level	noise pollution	
+medium	storage	function	album	signal	single	song	release	vocal	track	single track	storage space	
+noise	noise level	sound	tone	yell	strain	demonstration	voice	speech	noise pollution	band	harmony	sound level	sound wave	
+instrument	wood	wind	wind instrument	string	string instrument	guitar	keyboard	keyboard instrument	harp	bass	drum	pipe	bass instrument	pipe organ	bass guitar	bass note	string bass	
+composer	musician	writer	person	producer	poet	engineer	administrator	vocalist	chief	chief executive	
+folk	pop	folk rock	country	country folk	folk music	folk song	country pop	contemporary	contemporary folk	rock	pop rock	jazz	gospel	classical	pop music	folks	country rock	country music	gospel music	rock music	
+person	worker	musician	leader	conductor	employee	personnel	engineer	composer	boss	
+punk	rock	teen	punk rock	teenager	person	contemporary	girl	contemporaries	eccentric	pop	eccentric person	teen pop	pop rock	pop punk	contemporary folk	pop culture	
+function	storage	album	signal	release	medium	single	song	composition	vocal	single track	vocal band	storage space	
+wind	wind instrument	wood	instrument	pipe	brass	flute	brass instrument	pipe organ	air	bell	clarinet	saxophone	flute player	
+fear	terror	dislike	anxiety	sickness	disorder	distaste	phobia	hate	illness	
+classical	composition	opera	painting	ceremony	song	movie	performance	drama	ballad	movie theater	movie theatre	performance art	classical music	movie film	ballad opera	
+wind	wind instrument	wood	instrument	flute	pipe	brass	string	string instrument	brass instrument	clarinet	keyboard	keyboard instrument	air	pipe organ	flute player	
+person	filmmaker	actor	filming	writer	producer	photographer	photography	painter	film	film maker	film producer	film making	film actor	film director	film crew	
+team	composition	band	quartet	person	personnel	partnership	arrangement	chord	
+instrument	conductor	equipment	stick	weapon	handle	flag	implement	support	staff	stick figure	staff member	
+city	city center	person	city centre	town	surname	country	capital	chief	township	leader	title	chief executive	town hall	
+singer	vocalist	person	musician	voice	actor	baritone	vocal	voice actor	tenor	tone	baritone voice	tenor saxophonist	tenor voice	
+opera	classical	theater	theatre	drama	composition	show	dance	movie	classical style	presentation	classical music	movie theater	movie theatre	
+person	leader	corporation	company	firm	boss	chief	venture	chief executive	engineer	executive	venture capital	
+classical	dance	composition	show	opera	theater	movement	dance music	classical music	drama	march	jazz	jazz dance	
+team	composition	partnership	person	band	personnel	composing	company	coalition	function	coalition government	
+instrument	string	string instrument	guitar	wood	chord	plucked	plucked instrument	tune	keyboard	keyboard instrument	musician	guitarist	
+movie	album	song	picture	film	recording	storage	track	story	audio	movie theater	picture show	audio recording	film release	film series	picture book	audio signal	storage space	
+storage	medium	album	function	team	band	signal	person	audio	repetition	audio signal	audio recording	
+composition	team	vocal	track	band	tune	strain	air	voice	song	vocal band	air show	
+rock	pop	country	country rock	rock music	folk	punk	metal	contemporary	country pop	pop punk	pop metal	pop music	country music	pop rock	country folk	folk metal	country blues	folk punk	folk music	folk rock	punk rock	punk music	contemporary folk	
+introduction	composition	passage	narration	prelude	opening	narrative	excerpt	extract	way	way out	
+album	medium	storage	signal	function	audio	release	recording	movie	repetition	audio signal	movie theater	audio recording	movie theatre	storage space	
+drug	steroid	antagonist	antibody	medicine	protein	hormone	
+function	album	signal	medium	storage	repetition	release	repeating	task	reproduction	task force	storage space	
+band	team	function	storage	album	signal	medium	person	task	musician	task force	
+motif	chord	join	phrase	figure	stitch	shape	link	tune	string	figure out	phrase structure	
+terrain	country	track	grassland	surface	grass	environment	habitat	move	plain	surface area	
+depicting	depiction	person	signaling	label	company	portraying	firm	brand	trademark	brand name	
+vocal	track	composition	song	anthem	ballad	strain	tune	single	melody	single track	
+storage	team	function	album	band	signal	medium	person	task	composition	signal processing	task force	storage space	
+rock	pop	pop rock	rock music	metal	punk	contemporary	roll	country	country rock	pop metal	pop punk	pop music	country pop	pop culture	punk rock	country music	
+wind	wind instrument	wood	instrument	brass	flute	brass instrument	pipe	clarinet	air	saxophone	string	string instrument	pipe organ	flute player	string bass	
+instrument	animal	language	indigenous	textile	plant	native	equipment	river	artifact	native language	
+instrument	guitar	string	string instrument	guitarist	musician	guitar player	keyboard	keyboard instrument	wood	guitar solo	person	tune	chord	string bass	
+flute	instrument	wind	wood	wind instrument	pipe	clarinet	brass	string	string instrument	brass instrument	air	pipe organ	saxophone	
+vocal	single	release	song	medium	album	composition	storage	function	track	single track	storage space	
+instrument	wind	wind instrument	wood	brass	brass instrument	bell	drum	trumpet	pipe	flute	organ	pipe organ	flute player	trumpet player	
+classical	composition	classical music	performance	opera	classical style	presentation	track	technique	jazz	vocal	vocal music	
+instrument	drum	wind	wind instrument	wood	brass	brass instrument	drummer	bass	bass drum	flute	pipe	musician	bass instrument	pipe organ	flute player	
+composition	track	vocal	song	anthem	hymn	performance	tune	classical	ballad	
+integer	note	sign	measure	signal	sound	mark	measurement	specifications	sign language	sound wave	
+passage	composition	track	air	solo	introduction	tune	route	space	air space	air show	
+march	composition	marching	movement	track	song	anthem	performance	demonstration	tune	
+composition	presentation	performance	improvisation	specifications	technique	proficiency	show	song	language	
+mapping	move	stage	composition	route	way	specifications	base	movement	way out	state	move on	move up	move in	move out	move over	
+festival	show	staging	season	race	function	occasion	competition	film	show off	film festival	race track	film making	film series	film release	race horse	race course	season finale	
+album	function	storage	signal	medium	release	repetition	task	song	composition	storage space	
+composition	passage	vocal	strain	tune	air	track	voice	movement	song	air show	
+movie	storage	picture	recording	flick	medium	audio	album	film	signal	audio recording	picture show	audio signal	movie theater	picture book	film release	storage space	
+folk	composition	folk song	tune	pop	song	track	country	vocal	country folk	folk music	classical	melody	country pop	pop music	vocal pop	country music	vocal music	classical music	
+blues	jazz	gospel	composition	tune	folk	country	gospel blues	country blues	black	state	country folk	folk song	folk music	country music	
+person	musician	composer	leader	partnership	chief	chief executive	writer	concern	firm	producer	
+single	function	medium	release	album	storage	signal	song	track	vocal	single track	
+picture	medium	storage	story	person	movie	film	album	song	flick	picture book	movie theater	picture show	movie theatre	film series	storage space	
+person	writer	musician	composer	poet	actor	singer	vocalist	producer	filmmaker	
+composition	classical	composing	track	composer	task	arrangement	specifications	vocal	melody	classical music	classical style	
+band	team	composition	quartet	orchestra	person	voice	company	tune	
+animal	language	person	strain	ferment	speech	performance	drink	vocal	show	performance art	
+war	invasion	intervention	warring	warfare	expedition	venture	undertaking	move	campaign	move in	move out	move on	
+folk	country	country folk	jazz	blues	composition	tune	pop	folk song	country blues	folk music	country pop	country music	song	folks	pop rock	pop music	
+vocal	track	composition	song	single	release	storage	medium	album	function	single track	storage space	
+instrument	drum	bell	tone	sound	beat	signal	note	musician	wind	drum beat	wind instrument	
+wind	wind instrument	instrument	wood	clarinet	flute	string	string instrument	brass	bass	brass instrument	pipe	saxophone	bass instrument	bass clarinet	pipe organ	flute player	bass note	bass saxophone	string bass	
+jazz	jazz standard	blues	composition	swing	swing jazz	improvisation	pop	country	contemporary	classical	country blues	country pop	pop music	country music	classical style	contemporary blues	

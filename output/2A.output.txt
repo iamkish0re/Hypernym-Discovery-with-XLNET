@@ -1,0 +1,500 @@
+disease	sickness	illness	disorder	injury	damage	rupture	state	fracture	inflammation	
+evolution	transformation	function	growth	phenomenon	breeding	state	offspring	state change	growth factor	
+drug	steroid	medicine	drug solution	antagonist	antagonist drug	sulfate	morphine	pharmaceutical	pharmaceutical drug	protein	morphine sulfate	steroid hormone	
+disease	sickness	disorder	illness	fracture	injury	defect	lump	state	damage	
+fraction	ratio	function	percentage	figure	functions	ratio value	portion	magnitude	figure out	
+salt	drug	sodium	antagonist	antagonist drug	sulfate	medicine	morphine	drug solution	antibiotic	sugar	antibiotic drug	sodium sulfate	sugar substitute	morphine sulfate	
+sickness	illness	disease	disorder	state	impairment	disturbance	defect	damage	anomaly	
+fibre	disorder	allergen	silica	disease	drug	illness	sickness	fiber	resin	fibre bundle	fiber bundle	drug abuse	
+disease	inflammation	illness	disorder	infection	sickness	bleeding	lymphoma	pneumonia	injury	
+stone	gem	salt	metal	centre	crystal	lab	deity	base	sponsor	base metal	
+figure	fault	anomaly	shape	form	image	person	phenomenon	
+polygon	crystal	figure	triangle	base	fault	map	shape	drug	geometry	figure out	crystal structure	
+protein	steroid	hormone	steroid hormone	pigment	enzyme	sulfate	protein complex	allergen	iron	silica	
+disease	illness	sickness	disorder	state	injury	complication	pathology	obstruction	defect	
+tray	plate	platter	impression	equipment	mechanism	impression tray	dish	holder	slot	surface	slot machine	surface area	
+awareness	state	perception	sensitivity	sensation	remembering	sense	consciousness	phenomenon	sensibility	
+disease	sickness	illness	disorder	inflammation	state	injury	arthritis	pain	stiffness	pain disorder	pain sensation	
+rhythm	state	function	measure	timing	specifications	functions	phase	interval	state variable	
+rubber	implant	technology	implant material	resin	surface	drug	padding	surface treatment	treatment	
+ratio	concentration	magnitude	state	density	specifications	level	constant	figure	
+pigment	dye	additive	yellow	colour	white	abrasive	mixture	black	yellow color	white color	
+chemistry	specifications	medicine	functions	composition	research	reaction	experimentation	reaction mixture	research laboratory	research lab	reaction mechanism	
+assessment	evaluation	examination	inquiry	procedure	questionnaire	screening	investigation	intervention	trial	screening procedure	
+sickness	illness	disease	state	disorder	inflammation	swelling	yellow	skin	lump	skin disease	skin disorder	yellow color	yellow spot	skin cancer	
+crystal	acid	salt	radical	drug	silica	base	abrasive	antagonist	stone	antagonist drug	
+radical	antagonist	drug	antagonist drug	salt	acid	alcohol	bond	nitrogen	
+protein	bond	pigment	enzyme	hormone	protein complex	steroid	steroid hormone	radical	sulfate	factor	dye	enzyme inhibitor	
+organ	plant	anatomy	bone	animal	vegetable	person	shape	chord	branch	plant material	plant tissue	bone tissue	animal bone	bone structure	bone part	bone marrow	
+glue	bond	adhesive	protein	mixture	link	connection	tack	stick	adhesive material	protein complex	
+drug	steroid	antagonist	antagonist drug	antibiotic	sulfate	antibiotic drug	killer	medicine	herbicide	solvent	steroid hormone	
+procedure	experimentation	sexuality	treatment	consumption	function	intercourse	
+person	fighter	abrasive	activist	plant	pigment	stone	warrior	plant material	
+drug	medicine	antagonist	antagonist drug	morphine	pharmaceutical	pharmaceutical drug	antibiotic	antibiotic drug	stimulant	stimulant drug	painkiller	antidepressant	antidepressant drug	morphine sulfate	
+nucleus	locus	center	organ	cell	cell nucleus	constituent	centre	protein	protein complex	cell region	cell membrane	cell structure	cell division	
+depression	disease	disorder	illness	disturbance	state	sickness	distress	syndrome	impairment	
+drug	antagonist	antagonist drug	medicine	steroid	stimulant	stimulant drug	pharmaceutical	pharmaceutical drug	salt	resin	substitute	steroid hormone	pharmaceutical company	
+seal	signature	sign	protection	certificate	emblem	annotation	trademark	lock	marking	
+state	disease	sickness	illness	death	disorder	insanity	
+lymphoma	disease	cancer	tumor	carcinoma	illness	disorder	pathology	pneumonia	lump	
+shape	inclination	specifications	state	sickness	form	curve	movement	disorder	anomaly	movement disorder	
+procedure	intervention	removal	introduction	penetration	needle	biopsy	participation	placement	placement procedure	opening	needle biopsy	
+therapy	treatment	intervention	attention	aid	care	help	rehabilitation	assistance	rehabilitation program	rehabilitation service	
+disease	disorder	illness	bleeding	clot	complication	sickness	inflammation	injury	stroke	
+bone	organ	segment	column	bone structure	component	bone part	spine	plate	crystal	tube	crystal structure	
+fluid	protein	solvent	enzyme	humor	medium	sulfate	drug	gas	protein complex	gas mixture	
+level	state	elevation	measurement	density	extent	stage	degree	measure	depth	
+island	vessel	boat	ship	country	person	state	animal	woman	
+bond	antagonist	radical	hormone	drug	humor	antagonist drug	acid	protein	sugar	steroid	steroid hormone	sugar substitute	drug reaction	
+sickness	inflammation	illness	disease	disorder	pain	state	hurting	injury	pain disorder	hurt	pain sensation	
+drug	medicine	antibiotic	antibiotic drug	antagonist	antagonist drug	herbicide	steroid	pharmaceutical	pharmaceutical drug	stimulant	stimulant drug	
+state	swelling	sickness	expansion	illness	enlargement	disease	lump	disorder	fluid	
+vegetable	plant	green	seed	herb	perennial	leaf	flower	orange	tube	
+radical	drug	bond	alcohol	solvent	salt	base	nitrogen	antagonist	dye	antagonist drug	alcohol group	base metal	
+drug	morphine	antagonist	antagonist drug	medicine	painkiller	drug overdose	pharmaceutical	pharmaceutical drug	stimulant	stimulant drug	steroid	salt	morphine sulfate	steroid hormone	
+textile	fabric	cloth	fiber	clothes	clothing	cotton	thread	embroidery	cotton cloth	cotton fiber	
+illness	disorder	disease	sickness	anomaly	pathology	diagnosis	state	lump	defect	pathology diagnosis	
+drug	medicine	aid	fluid	pharmaceutical	drug solution	pharmaceutical drug	stimulant	stimulant drug	remedy	herb	
+singer	tone	speech	singing	voice	state	performance	vocal	language	speech disorder	
+sickness	illness	disease	disorder	state	weakness	injury	defect	stiffness	impairment	
+drug	antagonist	steroid	antagonist drug	hormone	steroid hormone	antibody	allergen	protein	humor	bond	
+fold	shape	flap	fault	form	folding	tissue	skin	skin tissue	skin layer	skin structure	tissue layer	
+cell	cell type	cell membrane	cell division	constituent	cell culture	protein	membrane	pigment	component	cellular	vessel	membrane protein	protein complex	cellular component	
+separation	separation process	rupture	removal	breaking	detachment	separating	fracture	breakdown	severance	extraction	breaking off	breaking away	
+specifications	indication	figure	sign	hypothesis	signal	state	phenomenon	function	figure out	sign language	state variable	
+withdrawal	withdrawal symptom	disease	reaction	response	withdrawing	illness	disorder	procedure	sickness	
+disease	illness	disorder	sickness	opening	obstruction	hole	defect	inflammation	injury	
+termination	connection	procedure	attachment	removal	function	fixing	coupling	intervention	introduction	attachment site	
+merchant	trader	person	seller	supplier	contractor	salesman	vendor	exporter	manufacturer	
+crystal	stone	sulfate	metal	lab	alloy	laboratory	semiconductor	fertilizer	laboratory equipment	
+base	terrace	paving	support	surface	stone	slope	surround	foundation	elevation	surface treatment	
+biopsy	removal	procedure	sampling	introduction	separation	withdrawal	extraction	intervention	participation	sampling technique	withdrawal method	separation process	
+sickness	pathology	disorder	illness	animal	disease	life	anatomy	diagnosis	pathology diagnosis	tumor	life science	
+blues	tune	song	vocal	track	composition	folk	strain	melody	
+procedure	oxygen	metabolism	participation	function	reaction	functions	circulation	introduction	disease	reaction mechanism	
+drug	herbicide	antagonist	antagonist drug	antibiotic	antibiotic drug	steroid	pesticide	medicine	allergen	killer	steroid hormone	
+delay	disease	illness	disorder	defect	sickness	state	syndrome	impairment	disturbance	
+defect	sickness	disease	illness	disorder	state	injury	fracture	pathology	bulge	pathology diagnosis	
+disease	procedure	function	functions	participation	movement	intake	failure	sickness	overflow	failure rate	movement disorder	
+plan	arrangement	scheme	care	policy	agreement	protocol	service	payment	care plan	treatment	service provider	service contract	
+sugar	sugar substitute	insulin	drug	glucose	fluid	hormone	diabetes	medicine	protein	
+phenomenon	magnitude	strain	pressure	tension	state	inclination	specifications	pressure sensation	
+investigation	investigating	research	examination	microscope	inquiry	procedure	experiment	enquiry	research project	
+armor	mask	armour	protection	hat	protector	helmet	clothing	footwear	
+disease	ulcer	disorder	inflammation	illness	sickness	diabetes	infection	pathology	cancer	
+procedure	introduction	intervention	route	opening	sugar	surgery	removal	entry	gas	sugar intake	sugar substitute	gas flow	
+deficiency	disease	deficit	illness	sickness	disorder	defect	deficient	lack	
+opening	hole	membrane	channel	passage	space	vessel	slot	tube	cell	cell membrane	cell structure	
+steroid	acid	drug	hormone	steroid hormone	sulfate	antagonist	radical	salt	antagonist drug	protein	crystal	
+gene	gene function	protein	factor	gene product	gene expression	enzyme	chromosome	function	genetic	genetic code	
+electrode	detector	equipment	instrument	implant	probe	component	terminal	
+hormone	humor	steroid	steroid hormone	reaction	stress	bond	state	radical	humour	reaction mechanism	
+disease	state	phenomenon	illness	disorder	sensation	flutter	sickness	hypertension	finding	
+disease	injury	illness	disorder	sickness	inflammation	stroke	state	syndrome	damage	
+explosion	movement	disorder	noise	outburst	disturbance	trouble	move	commotion	reaction	movement disorder	noise pollution	move out	move on	move up	
+dose	introduction	exposure	administration	intake	dosage	treatment	drug	procedure	drug dose	drug overdose	
+jewel	gem	colour	pearl	confection	ribbon	shade	icon	dye	
+disease	sickness	inflammation	disorder	illness	state	pain	infection	swelling	pain disorder	hurting	pain sensation	
+inflammation	disease	disorder	sickness	illness	injury	pain	state	hurting	arthritis	pain disorder	pain sensation	
+weather	phenomenon	air	atmosphere	wind	temperature	state	fluid	air temperature	gas	air pollution	air flow	gas flow	gas mixture	fluid dynamics	state variable	
+allergen	disease	protein	disorder	sickness	drug	illness	competitor	constituent	drug reaction	drug resistance	protein complex	
+stiffness	specifications	state	shape	functions	function	sickness	disease	
+drug	medicine	drug solution	pharmaceutical	pharmaceutical drug	antagonist	antagonist drug	stimulant	stimulant drug	morphine	crystal	steroid	morphine sulfate	steroid hormone	
+syndrome	disease	state	disorder	illness	sickness	diabetes	complication	serum	serum protein	
+enzyme	antibody	bond	factor	allergen	carrier	complex	radical	protein	protein complex	carrier protein	
+treatment	therapy	procedure	intervention	medicine	surgery	drug	introduction	aid	
+disease	illness	disorder	sickness	state	anomaly	diabetes	defect	infection	pathology	
+rhythm	rate	beat	function	state	frequency	functions	disease	specifications	response	frequency response	response time	
+disease	illness	disorder	sickness	defect	pneumonia	hypertension	state	failure	diabetes	
+attention	intervention	treatment	aid	medicine	care	help	research	psychiatry	career	help out	
+state	illness	sickness	disorder	disease	yellow	transformation	cancer	purple	phenomenon	state change	yellow color	
+plant	leaf	vegetable	green	herb	seed	plant material	flower	fiber	perennial	green card	
+sugar	protein	bond	fat	glucose	allergen	aggregate	resin	steroid	sulfate	steroid hormone	protein complex	
+disorder	sound	state	fault	illness	speech	sickness	impairment	tone	defect	speech disorder	
+test	procedure	trial	testing	experiment	exposure	task	questionnaire	participation	introduction	test tube	
+fluid	blood	humor	humour	sap	serum	plasma	blood flow	blood serum	state	bloodstream	blood stream	blood plasma	plasma protein	plasma membrane	
+lump	pathology	growth	sickness	diagnosis	disorder	tumor	illness	pathology diagnosis	disease	anomaly	growth hormone	
+physician	worker	person	nurse	employee	personnel	medic	doctor	chief	nurse practitioner	
+weakness	illness	sickness	weakening	disease	disorder	injury	state	failure	strain	
+pigment	dye	yellow	skin	colour	protein	orange	shade	brown	skin color	skin colour	protein complex	yellow color	brown fat	
+rubber	sponge	crystal	fabric	aggregate	shell	ceramic	mesh	plastic	rubber band	
+diagnosis	intervention	procedure	diagnostic	biopsy	evaluation	investigation	identification	assessment	diagnostic procedure	examination	diagnostic assessment	
+nucleus	organ	center	locus	site	centre	brain	brain region	brain structure	brain tissue	brain part	
+state	sensation	sense	phenomenon	euphoria	sickness	disorder	high	reaction	release	
+impairment	disease	disorder	illness	injury	sickness	damage	blindness	defect	dysfunction	
+procedure	introduction	disease	intervention	removal	function	movement	surgery	complication	participation	movement disorder	movement therapy	
+cough	disease	pneumonia	disorder	illness	sickness	infection	inflammation	lung	respiratory	respiratory disease	respiratory disorder	respiratory illness	respiratory infection	lung cancer	
+testing	test	assessment	evaluation	trial	screening	procedure	experimentation	examination	questionnaire	screening procedure	
+remembering	memory	memory function	memory recall	remembrance	recollection	recall	processing	storage	faculty	memories	understanding	processing capacity	
+inflammation	sickness	disease	disorder	illness	state	sensitivity	hurting	infection	headache	headache disorder	
+drug	steroid	steroid hormone	salt	medicine	antagonist	sulfate	antagonist drug	sodium	hormone	morphine	sodium sulfate	morphine sulfate	
+foot	shoe	bone	skin	aspect	bottom	impression	plant	base	bone part	skin layer	bone tissue	bone structure	skin tissue	plant tissue	
+disease	disorder	illness	sickness	state	sensation	inflammation	pain	sense	headache	pain sensation	pain disorder	headache disorder	
+repair	procedure	intervention	surgery	correction	treatment	removal	improvement	reconstruction	
+drug	medicine	antagonist	herb	antagonist drug	pharmaceutical	pharmaceutical drug	stimulant	stimulant drug	remedy	treatment	therapy	
+shape	flow	phenomenon	specifications	function	distribution	movement	motion	state	distribution pattern	state variable	
+illness	sickness	disorder	disease	state	lump	inflammation	yellow	infection	blister	yellow color	
+state	disorder	sickness	disease	illness	phenomenon	disturbance	anomaly	
+fuel	fluid	gas	flame	gas mixture	lamp	fire	light	torch	mixture	oil	light source	
+disease	failure	sickness	disorder	illness	hypertension	diabetes	complication	dysfunction	pathology	
+state	disease	stage	growth	phenomenon	age	phase	illness	hormone	growth hormone	growth delay	age group	
+enzyme	protein	factor	radical	constituent	protein kinase	protein complex	bond	gene	bacteria	component	gene product	gene function	
+failure	breakdown	ending	termination	end	decline	tragedy	collapse	downfall	disorder	end product	end point	end up	
+lump	disease	tumor	cancer	growth	pathology	disorder	illness	carcinoma	diagnosis	pathology diagnosis	
+disease	inflammation	infection	illness	disorder	sickness	diabetes	hepatitis	bleeding	pneumonia	
+drug	antagonist	antagonist drug	drug suspension	stimulant	stimulant drug	psychedelic	psychedelic drug	crystal	drug abuse	acid	solvent	medicine	suspension	
+fracture	crack	fault	rupture	defect	opening	injury	gap	bulge	cavity	
+rehabilitation	therapy	intervention	treatment	rehabilitation program	procedure	attention	rehabilitation service	care	aid	help	introduction	help out	
+defect	anomaly	disease	disorder	sickness	illness	fault	lump	imperfect	specifications	
+lump	obstruction	tumor	sickness	disease	rock	animal	illness	fracture	artifact	animal disease	rock music	
+image	imaging	picture	figure	measurement	map	measure	depiction	photograph	technology	measurement procedure	measurement method	figure out	
+transplant	procedure	introduction	graft	surgery	implant	intervention	removal	donation	transfer	graft material	
+lab	laboratory	metal	crystal	stone	gem	cobalt	resource	base	laboratory equipment	base metal	
+age	stage	state	years	growth	maturity	age group	peak	specifications	growth hormone	
+artifact	person	animal	icon	instrument	organ	fault	stone	mask	skin	skin disorder	skin disease	skin cancer	skin graft	
+pain	pain disorder	pain sensation	disease	hurting	disorder	inflammation	state	injury	illness	syndrome	headache	headache disorder	
+stone	crystal	animal	deity	female	constituent	hormone	variable	cardinal	female animal	
+instrument	wood	organ	harp	icon	bell	plant	cloth	speaker	bell shape	
+resin	mixture	semiconductor	plastic	network	mesh	rubber	paper	protein	protein complex	plastic film	
+procedure	approach	introduction	intervention	technique	protocol	removal	methodology	method	biopsy	
+therapy	intervention	treatment	attention	care	aid	procedure	rehabilitation	research	rehabilitation service	
+disease	sickness	illness	disorder	state	pain	pain sensation	sensation	hurting	disturbance	trouble	pain disorder	
+disease	illness	disorder	sickness	defect	anomaly	lump	pathology	state	injury	
+pressure	pressure measurement	tension	magnitude	strain	state	hypertension	phenomenon	stress	density	stress test	stress level	
+imaging	procedure	investigation	examination	technology	research	evaluation	investigating	intervention	image	image processing	image analysis	
+epilepsy	disease	illness	disorder	sickness	seizure	seizure disorder	disturbance	madness	state	insanity	
+protein	acid	steroid	hormone	radical	steroid hormone	fat	alcohol	pigment	dye	sugar	sugar substitute	
+diagnosis	prediction	prognosis	assessment	computation	calculation	evaluation	forecast	judgment	
+protein	antibody	drug	factor	antagonist	hormone	enzyme	bond	steroid	allergen	steroid hormone	antagonist drug	enzyme inhibitor	
+stone	gem	rock	crystal	icon	artifact	sculpture	person	
+slot	valve	opening	mechanism	organ	tube	passage	channel	function	
+herb	oil	plant	remedy	perfume	aromatic	fragrance	cosmetic	scent	medicine	plant extract	
+title	person	acknowledgment	honor	address	text	mention	authorization	speech	text file	
+person	injury	fracture	hurt	disease	illness	hurting	disorder	sickness	victim	
+disease	illness	sickness	infection	disorder	inflammation	pathology	state	ulcer	swelling	pathology diagnosis	
+stage	phase	state	era	growth	specifications	aspect	step	state change	aspect ratio	step in	step function	growth hormone	
+stone	yellow	crystal	jade	gem	blue	dye	pigment	
+intake	consumption	stimulant	disease	drink	drinking	drink intake	disorder	caffeine	beverage	sickness	drinking alcohol	stimulant drug	stimulant abuse	caffeine withdrawal	
+foot	shoe	organ	animal	leg	bone	anatomy	plant	footwear	aspect	bone part	bone tissue	bone structure	animal bone	plant tissue	
+penetration	opening	hole	injury	damage	fracture	bleeding	attack	removal	gap	
+disease	state	illness	sickness	disorder	obesity	swelling	inflammation	enlargement	expansion	
+bond	radical	protein	steroid	nitrogen	crystal	figure	oxygen	steroid hormone	crystal structure	nitrogen gas	oxygen gas	
+bleeding	disease	disorder	illness	bleed	complication	fluid	injury	blood	state	blood disease	blood disorder	blood flow	fluid loss	blood clot	
+carcinoma	cancer	disease	tumor	lump	pathology	disorder	growth	illness	pathology diagnosis	growth hormone	
+disease	disorder	inflammation	illness	sickness	arthritis	state	infection	diabetes	injury	
+disease	disorder	illness	sickness	clot	state	diabetes	infection	pneumonia	hypertension	
+trimming	reduction	cut	decrease	cutting	cutting out	removal	selection	reducing	reduction procedure	termination	improvement	cut back	cut out	cut down	cut off	cut away	cutting off	
+vaccine	virus	shot	antibody	drug	protein	vaccination	immunization	serum	serum protein	virus infection	
+disease	disorder	sickness	illness	hypertension	diabetes	state	inflammation	pathology	trouble	
+enzyme	antibody	pigment	allergen	factor	protein	clot	hormone	bond	factor in	protein complex	
+enzyme	protein	radical	bond	alcohol	reaction	acid	antioxidant	protein kinase	sugar	protein complex	alcohol group	sugar substitute	reaction mechanism	
+disease	syndrome	disorder	illness	state	sickness	pneumonia	serum	inflammation	serum sickness	serum protein	
+disease	epilepsy	illness	disorder	sickness	seizure	seizure disorder	state	disturbance	madness	
+intervention	task	participation	introduction	rehabilitation	rehabilitation program	
+anomaly	shape	phenomenon	feature	form	defect	figure	state	fault	person	state variable	figure out	
+drug	stimulant	stimulant drug	medicine	alcohol	pharmaceutical	pharmaceutical drug	aid	morphine	fluid	
+wave	shape	curve	wave shape	form	figure	phenomenon	tone	function	vibration	strain	wave form	
+disease	state	enlargement	illness	sickness	disorder	growth	pathology	anomaly	defect	pathology diagnosis	
+drug	antagonist	steroid	antagonist drug	hormone	steroid hormone	morphine	medicine	humor	bond	pharmaceutical	pharmaceutical drug	morphine sulfate	
+obstruction	disease	impediment	blocking	disorder	complication	illness	dysfunction	impairment	obstacle	
+crystal	stone	plant	gem	abrasive	rock	lab	plant material	
+disease	illness	sickness	disorder	flower	blister	infection	virus	fault	plant	virus infection	
+organ	bone	anatomy	fiber	fibre	vessel	tube	ligament	tissue	bone tissue	bone part	fibre bundle	bone structure	fiber bundle	
+disease	disorder	illness	inflammation	sickness	reaction	sensitivity	allergy	allergic	state	allergic reaction	
+reasoning	thinking	judgment	computation	judgement	processing	making	wisdom	calculation	deliberation	
+disease	inflammation	illness	sickness	disorder	infection	diabetes	injury	ulcer	bleeding	
+disease	illness	sickness	disorder	state	anomaly	lump	inflammation	defect	
+disease	illness	disorder	inflammation	infection	sickness	pneumonia	bleeding	diabetes	state	
+failure	disease	disorder	sickness	illness	dysfunction	pathology	damage	function	defect	
+bloodstream	artery	tube	vessel	circulation	blood	vein	route	passage	blood supply	blood circulation	blood flow	
+philosophy	difference	state	understanding	thinking	disorder	intellect	ideal	righteousness	doctrine	
+tumor	cell	lump	protein	growth	disease	illness	sickness	pathology	cell growth	organ	cell structure	pathology diagnosis	cell membrane	growth hormone	cell type	growth medium	cell biology	cell wall	protein structure	
+sickness	illness	state	disease	disorder	anomaly	expansion	swelling	defect	
+vitamin	acid	antioxidant	drug	hormone	serum	enzyme	vitamin c	serum protein	
+carcinoma	cancer	disease	tumor	pathology	disorder	illness	growth	lump	sickness	pathology diagnosis	
+discharge	disease	fluid	bleeding	movement	release	emission	state	flow	movement disorder	flow out	
+lump	growth	disease	tumor	cancer	sickness	carcinoma	pathology	illness	disorder	growth hormone	pathology diagnosis	
+enzyme	kinase	protein	protein kinase	radical	bond	carrier	acid	glucose	factor	carrier protein	protein complex	
+strain	accompaniment	melody	chord	improvisation	expansion	specifications	texture	air	extension	air flow	
+enzyme	protein	sugar	acid	allergen	antibody	drug	sugar substitute	abrasive	silica	salt	
+imaging	procedure	image	intervention	evaluation	biopsy	screening	screening procedure	examination	technology	investigation	image processing	
+response	response time	reaction	function	functions	resistance	disease	rate	sensitivity	state	reaction mechanism	reaction time	
+lymphoma	disease	cancer	tumor	carcinoma	illness	disorder	lump	sickness	pathology	
+test	assessment	task	questionnaire	examination	measure	evaluation	testing	measurement	procedure	measurement procedure	measurement method	
+bleeding	disease	illness	disorder	sickness	injury	inflammation	infection	pathology	swelling	pathology diagnosis	
+disease	inflammation	illness	disorder	sickness	ulcer	diabetes	infection	bleeding	injury	
+impairment	handicap	disorder	inability	injury	disability	illness	defect	difference	difficulty	
+disease	plant	sickness	disorder	illness	misfortune	stone	medicine	phenomenon	fault	
+soil	plant	dirt	plant material	seed	plant tissue	site	aggregate	farm	grass	perennial	fertilizer	plant cell	
+solution	additive	salt	sulfate	chlorine	treatment	protection	fertilizer	silica	
+drug	antagonist	antagonist drug	medicine	steroid	morphine	herbicide	stimulant	stimulant drug	morphine sulfate	steroid hormone	
+radical	salt	bond	sulfate	nitrogen	acid	crystal	base	steroid	base metal	steroid hormone	
+crystal	alloy	bond	protein	metal	sulfate	abrasive	aggregate	iron	silica	protein complex	
+disease	inflammation	illness	sickness	disorder	diabetes	infection	bleeding	ulcer	arthritis	
+crystal	radical	derivative	stone	pigment	bond	semiconductor	constituent	
+hormone	steroid	steroid hormone	bond	protein	factor	enzyme	sulfate	humor	radical	protein complex	
+virus	virus infection	animal	disease	plant	infection	animal disease	sickness	seed	bacteria	illness	vaccine	plant virus	
+movement	move	slip	fault	movement disorder	sliding	failure	misconduct	fall	drop	injury	move over	move out	fall over	drop off	fall out	drop out	drop down	
+disease	disorder	illness	sickness	hypertension	syndrome	state	pathology	inflammation	diabetes	
+protein	beta	antibody	factor	hormone	bond	enzyme	carrier	allergen	protein complex	antibody type	carrier protein	
+passage	slot	opening	tube	hole	drain	channel	introduction	outlet	
+task	homework	project	function	occasion	assignment	undertaking	discussion	endeavor	
+carrier	enzyme	bond	antibody	allergen	protein	motif	sugar	factor	protein complex	carrier protein	sugar substitute	
+drug	medicine	virus	antibody	antagonist	antagonist drug	enzyme	antibiotic	antibiotic drug	herbicide	protein	virus infection	enzyme inhibitor	
+crystal	abrasive	silica	drug	antagonist	protein	salt	enzyme	stone	antagonist drug	protein complex	enzyme inhibitor	
+biopsy	removal	procedure	sampling	extraction	separation	intervention	transplant	extract	harvesting	sampling technique	separation process	
+chair	cushion	furniture	support	person	sofa	mechanism	equipment	platform	
+vaccination	introduction	procedure	immunization	vaccine	disease	shot	treatment	participation	infection	
+sickness	illness	disorder	headache	disease	pain	sensation	pain sensation	sense	headache disorder	hurting	pain disorder	disturbance	
+bypass	procedure	pump	introduction	route	removal	intervention	flow	passage	mechanism	
+disease	inflammation	sickness	illness	disorder	state	pain	injury	ulcer	swelling	pain disorder	pain sensation	
+enzyme	protein	alcohol	radical	reaction	bond	protein kinase	sugar	acid	protein complex	hormone	reaction mechanism	sugar substitute	
+disease	complication	pathology	illness	disorder	lump	enlargement	inflammation	state	growth	pathology diagnosis	state change	
+dance	textile	figure	composition	rock	flower	vocal	melody	tune	song	
+drug	crystal	solvent	steroid	pigment	rubber	alcohol	resin	bond	fluid	steroid hormone	
+drug	antagonist	salt	antagonist drug	radical	nitrogen	acid	crystal	protein	base	base metal	protein nitrogen	
+disease	illness	disorder	sickness	hypertension	state	syndrome	diabetes	obesity	pathology	
+drug	antagonist	steroid	humor	salt	antagonist drug	medicine	sickness	hormone	fluid	steroid hormone	
+herb	plant	crystal	medicine	drug	perennial	sickness	remedy	medicinal	medicinal plant	plant material	
+animal	fish	seafood	amphibian	mollusk	insect	vegetable	shell	fish species	bug	
+biopsy	removal	procedure	sampling	extraction	separation	intervention	harvesting	introduction	participation	sampling technique	separation process	
+disease	sickness	illness	disorder	infection	state	pathology	bacteria	disturbance	inflammation	pathology diagnosis	
+deficiency	disease	deficit	illness	disorder	defect	sickness	intake	diabetes	
+viral	viral infection	protein	infection	disease	viral disease	bacteria	pathogen	virus	infectious	viral protein	viral pneumonia	virus infection	viral pathogen	infectious disease	infectious agent	
+disease	lump	growth	disorder	illness	cancer	pathology	enlargement	sickness	state	pathology diagnosis	
+visibility	transparency	state	ratio	specifications	clarity	size	extent	magnitude	
+disease	diabetes	disorder	diabetic	illness	state	sickness	hypertension	pathology	complication	
+pain	pain sensation	hurting	sensation	disease	hurt	sickness	pain disorder	illness	sense	disorder	state	
+pain	sensation	sickness	pain sensation	sense	disorder	hurting	state	disease	illness	hurt	pain disorder	
+complication	disease	disorder	difficulty	pathology	disturbance	illness	trouble	injury	
+disease	rupture	disorder	sickness	complication	illness	abortion	state	pregnancy	procedure	
+specifications	type	identity	person	population	feature	composition	category	variable	annotation	
+fat	acid	radical	fatty	fatty acid	protein	alcohol	antioxidant	sugar	bond	salt	alcohol group	
+worker	person	employee	servant	guard	guardian	employer	provider	supervisor	
+imaging	procedure	image	intervention	evaluation	biopsy	screening	screening procedure	investigation	examination	technology	image processing	
+constipation	disease	sickness	illness	disorder	state	obstruction	complication	obesity	diabetes	
+disease	lump	growth	tumor	disorder	cancer	illness	anomaly	sickness	defect	
+steroid	steroid hormone	hormone	drug	protein	antagonist	bond	pigment	radical	sulfate	protein complex	antagonist drug	
+impairment	disease	sickness	disorder	illness	blindness	state	injury	damage	defect	
+disorder	disease	illness	sickness	state	inflammation	syndrome	pneumonia	disturbance	attack	
+disease	disorder	illness	inflammation	diabetes	sickness	carcinoma	cancer	infection	state	
+drug	medicine	herbicide	antagonist	antagonist drug	steroid	stimulant	stimulant drug	pharmaceutical	pharmaceutical drug	antibiotic	antibiotic drug	steroid hormone	antibiotic therapy	
+mirror	mirror image	artifact	instrument	bell	stone	figure	equipment	crystal	rock	bell shape	
+stimulant	stimulant drug	drug	sugar	sugar substitute	alcohol	caffeine	additive	coffee	fluid	energy	energy drink	energy source	
+disease	sickness	disorder	state	illness	anomaly	pain	sensation	diabetes	pain sensation	pain disorder	
+impairment	disease	illness	disorder	sickness	dementia	disturbance	injury	disability	state	
+disease	illness	sickness	disorder	inflammation	pathology	cancer	diabetes	state	obesity	
+pneumonia	disease	illness	sickness	disorder	infection	inflammation	lung	cancer	virus	virus infection	lung cancer	
+pillow	cushion	clothing	blanket	cloth	clothes	textile	jacket	
+disease	failure	illness	disorder	sickness	complication	syndrome	pathology	rejection	pneumonia	pathology diagnosis	
+intervention	therapy	rehabilitation	task	procedure	treatment	rehabilitation program	
+drug	medicine	drug solution	morphine	stimulant	stimulant drug	pharmaceutical	antagonist	antagonist drug	pharmaceutical drug	crystal	psychedelic	psychedelic drug	morphine sulfate	
+nerve	nerve bundle	nerve fiber	nerves	nerve fibre	nerve tissue	fiber	fiber bundle	nerve cell	tube	nerve ending	bundle	fibre	fibre bundle	organ	vessel	branch	canal	
+blush	amusement	state	show	embarrassment	illness	expression	reaction	sickness	inclination	show off	reaction time	
+metal	alloy	stone	lab	laboratory	crystal	metallic	gem	semiconductor	noble	metallic element	noble metal	
+fear	terror	anxiety	anxiety disorder	anxiety state	concern	reasoning	disorder	sickness	reason	thinking	anxiety reaction	
+form	agreement	understanding	covenant	depiction	contract	signature	sign	bond	specifications	sign language	
+disease	illness	sickness	infection	disorder	virus	blister	acne	virus infection	inflammation	ulcer	
+disease	state	disorder	illness	sickness	skin	acne	skin disease	dry	skin disorder	dry skin	
+drug	antibiotic	antibiotic drug	herbicide	medicine	antagonist	antagonist drug	killer	antibody	protein	
+organ	brain	bone	hemisphere	brain region	surface	bone structure	locus	lobe	nucleus	bone tissue	brain structure	surface area	brain part	brain tissue	bone part	bone formation	
+magnitude	temperature	state	variable	decrease	phenomenon	specifications	degree	low	inclination	state variable	low temperature	
+person	patient	transplant	recipient	donor	beneficiary	receiver	diabetic	user	donor organ	
+surgery	medicine	specialty	career	intervention	dentistry	procedure	surgeon	surgical	surgical specialty	surgical procedure	surgical operation	
+insect	disease	infection	bug	animal	sickness	illness	animal disease	virus	disorder	virus infection	bacteria	
+disease	disorder	illness	sickness	inflammation	injury	damage	bleeding	state	rupture	
+drug	antagonist	antagonist drug	medicine	salt	steroid	pharmaceutical	sulfate	pharmaceutical drug	stimulant	stimulant drug	herbicide	steroid hormone	
+disease	illness	disorder	infection	pneumonia	sickness	cancer	carcinoma	inflammation	state	
+insomnia	disease	disorder	illness	sickness	state	disturbance	sleep	headache	epilepsy	sleep disorder	sleep disturbance	headache disorder	
+bone	organ	bone structure	bone tissue	bone part	implant	animal	tissue	component	segment	marrow	animal bone	base	animal tissue	implant material	tissue layer	
+pain	pain sensation	hurting	pain disorder	disease	sensation	sickness	disorder	hurt	illness	sense	state	
+sickness	disorder	disturbance	madness	illness	state	disease	insanity	trance	trouble	
+hurting	hurt	sickness	pain	illness	injury	state	pain sensation	disorder	inflammation	disease	pain disorder	
+disease	illness	disorder	asthma	sickness	pneumonia	inflammation	state	hypertension	syndrome	asthma attack	
+sickness	state	illness	hurting	disorder	injury	weakness	sensation	hurt	disease	
+removal	procedure	surgery	extraction	separation	intervention	introduction	withdrawal	biopsy	separation process	withdrawal method	
+termination	death	procedure	killing	abortion	murder	end	death penalty	crime	rejection	sickness	end product	end point	end user	
+protein	steroid	enzyme	protein complex	pigment	hormone	drug	steroid hormone	antibody	antagonist	bond	dye	antagonist drug	enzyme inhibitor	
+switch	slot	circuit	mechanism	circuit board	component	valve	controller	appliance	fitting	control	control circuit	
+sickness	state	disease	hypertension	illness	disorder	diabetes	growth	pathology	complication	growth hormone	
+resistance	difference	hurting	rubbing	disagreement	disorder	pull	strain	reaction	difficulty	reaction mechanism	
+state	erection	enlargement	disease	illness	function	growth	contraction	sickness	dysfunction	growth hormone	
+disease	lymphoma	cancer	disorder	leukemia	illness	sickness	carcinoma	tumor	pneumonia	
+state	illness	sickness	disorder	disease	slump	relaxation	inertia	weakness	sleep	sleep disorder	sleep disturbance	
+medicine	specialty	career	research	surgery	dentistry	psychiatry	physician	intervention	
+hand	grasp	instrument	grip	possession	artifact	implement	person	weapon	
+plant	flower	disease	illness	herb	infection	sickness	disorder	green	evergreen	
+tube	instrument	equipment	technology	scope	camera	imaging	introduction	procedure	camera system	
+growth	disorder	lump	illness	sickness	tumor	disease	diagnosis	pathology	anomaly	pathology diagnosis	growth hormone	growth medium	
+pressure	pressure measurement	state	magnitude	ratio	specifications	tension	function	parameter	fluid	ratio measurement	state variable	fluid dynamics	
+therapy	procedure	treatment	introduction	intervention	drug	administration	attention	
+mechanism	valve	opening	stop	fitting	obstruction	figure	bell	barrier	protection	bell shape	figure out	
+procedure	hygiene	treatment	introduction	washing	participation	intake	irrigation	intervention	administration	
+disease	illness	disorder	injury	sickness	pathology	damage	state	diabetes	inflammation	
+disease	complication	disorder	bleeding	injury	illness	stroke	intervention	inflammation	clot	
+introduction	drug	medicine	procedure	fluid	injection	intervention	morphine	administration	drug solution	injection solution	
+disorder	sickness	illness	disease	disturbance	pathology	state	syndrome	defect	anomaly	
+drug	morphine	medicine	drug abuse	painkiller	antagonist	antagonist drug	morphine sulfate	pharmaceutical	stimulant	stimulant drug	pharmaceutical drug	steroid	steroid hormone	
+pull	holding	grip	hold	pressure	hold on	pull out	specifications	support	restraint	pull down	pressure sensation	hold down	hold over	hold up	support system	
+abrasive	rubber	drug	sponsor	crystal	silica	mixture	additive	stone	
+tack	textile	cloth	stone	figure	footwear	fabric	artifact	person	clothing	
+drug	stimulant	stimulant drug	plant	medicine	herb	pesticide	leaf	sugar	candy	sugar substitute	plant material	
+introduction	administration	procedure	intake	fluid	addition	treatment	intervention	mixture	participation	fluid intake	
+enzyme	protein	antibiotic	acid	drug	bacteria	radical	killer	herbicide	antibiotic drug	protein kinase	protein complex	bacteria species	
+solution	solvent	pollution	radical	sulfate	reaction	acid	remedy	disorder	reaction mixture	reaction mechanism	
+lump	growth	tumor	pathology	disorder	diagnosis	disease	sickness	illness	anomaly	pathology diagnosis	
+cavity	canal	sinus	organ	opening	slot	passage	space	vessel	
+tissue	organ	tissue layer	bone	bone tissue	marrow	protein	anatomy	cell	organs	humor	bone marrow	cell membrane	cell wall	cell type	cell structure	bone structure	bone part	
+protein	cell	blood	component	enzyme	cell membrane	blood cell	constituent	plate	membrane	cell type	clot	plasma	blood component	plasma protein	protein complex	blood protein	cell wall	blood type	blood clot	plasma cell	plasma membrane	blood plasma	membrane protein	
+function	reaction	functions	state	additive	complement	makeup	counterpart	principle	mixture	reaction mechanism	complement component	
+scale	scale factor	scales	questionnaire	measure	assessment	measurement	test	index	meter	assessment scales	measurement scales	measurement procedure	
+disease	cancer	lump	disorder	tumor	pathology	sickness	illness	carcinoma	growth	pathology diagnosis	
+protein	paper	membrane	fibre	plant	fiber	membrane protein	fibre bundle	figure	enzyme	tissue	dough	fiber bundle	protein complex	plant material	plant tissue	
+protein	tube	semiconductor	sugar	membrane	membrane protein	enzyme	nitrogen	crystal	steroid	fiber	steroid hormone	fiber bundle	sugar substitute	nitrogen gas	crystal structure	
+test	assessment	task	measurement	evaluation	examination	trial	testing	procedure	questionnaire	measurement procedure	measurement method	
+sulfate	salt	sodium	crystal	sodium sulfate	drug	base	silica	abrasive	stone	solvent	drug solution	base metal	
+silica	crystal	alloy	sulfate	abrasive	oxide	salt	metal	pigment	aluminium	metal oxide	aluminium oxide	
+drug	crystal	dye	stone	resin	salt	pigment	antagonist	antagonist drug	stimulant	plaster	stimulant drug	plaster cast	
+protein	steroid	pigment	steroid hormone	hormone	enzyme	antagonist	protein complex	drug	bond	resin	radical	antagonist drug	
+introduction	procedure	participation	administration	intervention	protocol	disease	removal	therapy	treatment	
+person	patient	recipient	transplant	donor	receiver	beneficiary	user	diabetic	donor organ	
+stone	icon	person	figure	rock	sculpture	church	saint	statue	platform	
+drug	antagonist	antagonist drug	crystal	steroid	solvent	salt	acid	resin	dye	herbicide	steroid hormone	
+disease	sickness	disorder	illness	pain	state	inflammation	sensation	hurting	sense	pain sensation	pain disorder	
+disease	defect	disorder	sickness	lump	illness	anomaly	state	pathology	growth	pathology diagnosis	
+drug	sickness	disease	disorder	drug dependence	illness	drug abuse	disturbance	drug reaction	dependence	abuse	state	medicine	
+disease	illness	state	sickness	defect	disorder	growth	pathology	obesity	anomaly	growth delay	
+steroid	steroid hormone	hormone	drug	reaction	medicine	antagonist	serum	humor	inflammation	drug reaction	antagonist drug	
+disease	defect	disorder	sickness	illness	pathology	injury	anomaly	damage	lump	
+disease	movement	disorder	complication	procedure	function	sickness	overflow	illness	failure	movement disorder	failure rate	
+regime	regimen	exercise	routine	task	procedure	exercise regime	routine procedure	
+fluid	gas	crystal	particle	projectile	state	sphere	ice	phenomenon	gas mixture	ice crystal	ice cream	state variable	
+sound	tone	phenomenon	state	perception	sensation	sound perception	speech	singing	sense	hearing	speech perception	hearing impairment	speech disorder	speech sound	hearing disorder	
+sickness	illness	disorder	disease	headache	headache disorder	state	hurting	disturbance	trouble	pain	pain disorder	pain sensation	
+suspension	procedure	introduction	support	fluid	solution	administration	medium	removal	state	support system	
+enzyme	protein	oxygen	glucose	antioxidant	bacteria	reaction	radical	bond	protein complex	protein kinase	reaction mechanism	
+disorder	illness	sickness	disease	disturbance	state	madness	pathology	insanity	syndrome	
+calculus	additive	procedure	mixture	calculation	solution	salt	pathology	computation	pathology diagnosis	
+disease	impairment	disorder	illness	diabetes	sickness	state	syndrome	sensitivity	deficit	
+imaging	procedure	image	intervention	evaluation	examination	technology	biopsy	image processing	mapping	investigation	image analysis	
+tube	passage	bloodstream	vessel	route	artery	anatomy	way	opening	way out	
+biologist	student	scholar	person	intellect	anthropologist	animal	psychologist	intellectual	worker	
+carcinoma	cancer	disease	tumor	disorder	lump	pathology	illness	growth	sickness	pathology diagnosis	
+screening	screening procedure	procedure	screen	testing	check	evaluation	participation	test	monitoring	scrutiny	monitoring procedure	screen test	check out	screen out	
+trauma	injury	damage	harm	hurt	disease	pain	disorder	hurting	disturbance	pain sensation	pain disorder	
+bond	hormone	protein	enzyme	radical	humor	steroid	steroid hormone	drug	sugar	protein complex	drug reaction	sugar substitute	
+disease	obstruction	procedure	introduction	intervention	removal	blocking	injury	graft	opening	graft material	
+rehabilitation	therapy	treatment	intervention	procedure	rehabilitation program	care	attention	rehab	participation	attention training	
+sickness	disorder	illness	disease	state	pain	anomaly	disturbance	pain disorder	hurting	syndrome	pain sensation	
+sickness	illness	disorder	disease	impairment	blindness	state	defect	inability	disability	
+medicine	therapy	treatment	specialty	research	herb	remedy	aid	intervention	
+mixture	drug	substitute	remedy	salt	measure	antagonist	additive	indicator	antagonist drug	indicator variable	
+protein	antibody	clot	barrier	protein complex	antagonist	humor	sulfate	bond	pigment	drug	antagonist drug	
+plant	herb	seed	flower	spice	plant extract	evergreen	coffee	tea	medicine	orange	
+shape	form	figure	protein	fold	network	protein structure	polygon	arrangement	function	form factor	figure out	network architecture	
+fat	fatty	fatty acid	sugar	protein	obesity	oil	acid	radical	fluid	state	sugar substitute	
+drug	plant	steroid	herb	stimulant	stimulant drug	medicine	enzyme	antagonist	antagonist drug	herbicide	steroid hormone	enzyme inhibitor	
+hospital	hospital environment	hospital bed	facility	centre	center	workplace	surgery	
+disorder	disease	sickness	state	illness	distress	sensation	disturbance	difficulty	difficulty breathing	
+syndrome	disease	illness	disorder	sickness	state	infection	complication	inflammation	pneumonia	
+support	bond	resin	crystal	protector	rubber	sponsor	sulfate	base	backing	support group	
+disease	disorder	illness	anomaly	sickness	defect	state	obesity	lump	syndrome	
+stimulation	stimulation procedure	procedure	stimulation technique	stimulus	therapy	intervention	treatment	introduction	exposure	stimulant	attention	exposure therapy	stimulant drug	
+cell	cell type	cell culture	cell biology	cell membrane	constituent	protein	carcinoma	animal	tumor	person	tissue	cellular	protein complex	cellular component	animal tissue	animal protein	tumor cells	
+drug	antagonist	humor	sickness	steroid	salt	antagonist drug	disease	medicine	hormone	alcohol	steroid hormone	
+disease	lump	defect	illness	disorder	sickness	cancer	tumor	growth	anomaly	
+disease	illness	state	diabetes	disorder	sickness	hypertension	inflammation	pathology	complication	
+drug	antagonist	antibiotic	antagonist drug	antibiotic drug	acid	crystal	morphine	radical	steroid	killer	protein	steroid hormone	morphine sulfate	
+support	framework	frame	supporting	form	shape	plate	equipment	infrastructure	platform	support system	supporting structure	
+image	picture	figure	drawing	map	depiction	photograph	diagram	fault	illustration	figure out	
+disorder	bleeding	disease	illness	sickness	hurting	injury	hurt	damage	harm	
+disease	bleeding	stroke	complication	disorder	injury	illness	inflammation	flow	sickness	
+crystal	stone	fabric	gem	textile	semiconductor	block	cloth	
+drug	antagonist	antagonist drug	protein	medicine	steroid	antibody	salt	inhibitor	herbicide	alcohol	steroid hormone	
+drug	antagonist	antagonist drug	antibiotic	antibiotic drug	protein	enzyme	allergen	steroid	antibody	herbicide	killer	protein complex	enzyme inhibitor	steroid hormone	
+crystal	gem	stone	alloy	semiconductor	metal	blue	jewel	yellow	
+disease	sickness	disorder	failure	illness	hypertension	pathology	diabetes	state	complication	
+sugar	sugar substitute	glucose	drug	crystal	sulfate	salt	support	protein	silica	bond	support group	crystal structure	
+defect	disease	sickness	disorder	illness	injury	state	pathology	anomaly	fracture	
+cell	branch	chromosome	fiber	plant	organ	nerve	fibre	tube	constituent	fiber bundle	fibre bundle	cell membrane	nerve fiber	plant cell	cell structure	nerve cell	nerve bundle	nerve fibre	plant tissue	nerve ending	nerve tissue	
+plant	resource	seed	crystal	source	plant extract	technology	fertilizer	
+bacteria	parent	relative	person	bacterium	chromosome	animal	gene	ancestor	gene function	constituent	bacteria species	gene expression	gene family	
+pressure	pressure measurement	pressure level	state	magnitude	ratio	specifications	hypertension	density	parameter	tension	ratio measurement	
+allergen	protein	disease	illness	sickness	carrier	disorder	constituent	allergic	allergy	allergic reaction	carrier protein	protein complex	
+death	death penalty	tragedy	drowning	kill	killing	misfortune	disaster	catastrophe	crime	failure	
+state	stage	consciousness	disease	level	function	perception	
+drug	drug abuse	stimulant	stimulant drug	morphine	crack	medicine	crystal	alcohol	heroin	pharmaceutical	pharmaceutical drug	cocaine	crack cocaine	morphine sulfate	morphine dependence	alcohol dependence	alcohol abuse	
+rupture	separation	disease	breakdown	injury	trauma	fracture	procedure	failure	damage	separation process	
+disease	disorder	illness	sickness	defect	disturbance	syndrome	state	pathology	impairment	
+fluid	humor	humour	discharge	state	cavity	protein	response	mixture	protein complex	
+injury	damage	hurt	trauma	harm	hurting	fracture	disorder	rupture	sickness	
+sickness	growth	illness	disorder	lump	disease	pathology	tumor	diagnosis	cancer	pathology diagnosis	
+hatred	hate	jealousy	dislike	envy	disgust	discontent	sickness	lust	
+disease	growth	lump	tumor	cancer	disorder	pathology	illness	carcinoma	sickness	pathology diagnosis	
+state	deficit	weakness	storage	disease	specifications	illness	sickness	
+response	reaction	reaction mechanism	antibody	function	mechanism	disease	functions	phenomenon	
+drug	antagonist	antagonist drug	salt	crystal	radical	steroid	abrasive	sulfate	steroid hormone	
+steroid	drug	steroid hormone	resin	salt	allergen	sulfate	antagonist	hormone	crystal	accelerator	antagonist drug	
+cancer	disease	carcinoma	tumor	illness	pathology	sickness	disorder	lump	growth	pathology diagnosis	
+block	blocks	graft	disease	blocking	organ	function	injury	defect	graft material	
+disorder	illness	sickness	disease	state	lump	growth	pathology	inflammation	infection	pathology diagnosis	growth hormone	
+care	attention	intervention	treatment	aid	therapy	medicine	service	procedure	support	service provider	
+method	methodology	algorithm	technique	procedure	calculation	computation	approach	measure	measurement	measurement method	measurement procedure	
+pain	pain sensation	pain disorder	hurting	sensation	disease	sense	hurt	state	disorder	inflammation	illness	
+phenomenon	disorder	health	energy	harm	flux	state	radiation	damage	attack	energy state	
+coin	artifact	crystal	jewel	gem	stone	icon	image	possession	
+disease	sickness	illness	disorder	inflammation	pathology	diabetes	state	anomaly	injury	
+stone	crystal	metal	gem	lab	laboratory	semiconductor	rock	resource	sulfate	
+service	services	aid	service provider	service department	department	assistance	help	response	intervention	personnel	branch	
+sickness	disease	illness	disorder	fever	infection	state	inflammation	temperature	pneumonia	
+enzyme	protein	bacteria	bacterium	antibody	killer	virus	pathogen	protein complex	
+homosexual	lesbian	person	gay	woman	sexuality	female	lover	
+drug	protein	sugar	sugar substitute	salt	antagonist	antibody	medicine	allergen	steroid	fat	antagonist drug	steroid hormone	
+plant	flower	herb	perennial	arrangement	mint	yellow	green	seed	evergreen	
+disease	sickness	injury	defect	damage	illness	disorder	pathology	state	dysfunction	
+alloy	metal	competitor	resource	semiconductor	conductor	competition	surface	surface treatment	
+surgeon	physician	doctor	surgeon general	worker	specialist	medicine	person	practitioner	surgery	pediatrician	
+dispute	disagreement	difficulty	trouble	tension	disorder	warring	problem	disturbance	
+illness	disorder	sickness	disease	disturbance	state	epilepsy	madness	seizure	syndrome	seizure disorder	
+protein	sugar	bond	radical	nitrogen	crystal	enzyme	sulfate	acid	oxygen	protein nitrogen	
+procedure	introduction	implant	transplant	intervention	surgery	graft	removal	technique	method	implant technique	
+function	sexuality	response	inclination	movement	intercourse	state	
+figure	polygon	equipment	cell	signal	fiber	shape	phone	fiber bundle	terminal	cell membrane	cell structure	phone number	phone line	cell nucleus	cell wall	
+drug	antagonist	antagonist drug	radical	crystal	killer	steroid	acid	medicine	base	steroid hormone	crystal structure	
+enzyme	bond	protein	radical	antioxidant	oxygen	energy	carrier	complex	drug	protein complex	carrier protein	energy source	
+student	person	scholar	intellectual	academic	intellect	pupil	physician	graduate	graduate student	graduate school	
+protein	drug	fiber	steroid	fibre	protein complex	sponsor	barrier	additive	sulfate	aid	fibre bundle	steroid hormone	
+protein	fibre	fiber	bond	collage	aggregate	resin	tissue	clot	fibre bundle	fiber bundle	
+organ	component	membrane	textile	protein	tube	semiconductor	tissue	cell	membrane protein	cell membrane	protein structure	cell wall	cell structure	cell biology	
+hospital	hospital environment	hospital department	facility	surgery	workplace	environment	medicine	clinic	
+excess	disease	extent	extra	obesity	increase	deficit	difference	surplus	
+stone	rock	abrasive	crystal	gem	alloy	semiconductor	jewel	
+cell	cell type	cell membrane	cell division	cell nucleus	cellular	protein	membrane	chromosome	enzyme	constituent	channel	cellular component	membrane protein	protein complex	
+salt	drug	crystal	sulfate	medicine	bond	antagonist	abrasive	stone	acid	antagonist drug	
+semiconductor	crystal	abrasive	ceramic	stone	carbon	silica	chip	additive	carbon dioxide	
+appliance	implant	component	accessory	aid	mechanism	support	equipment	implement	
+specifications	measure	person	identity	state	figure	type	particle	composition	figure out	state variable	
+disease	disorder	illness	sickness	state	hypertension	diabetes	pneumonia	infection	protein	
+medicine	specialty	career	surgery	dentistry	pathology	research	psychiatry	anatomy	pathology diagnosis	psychiatry department	
+state	celebration	person	speech	religion	singer	party	song	speech disorder	
+acid	salt	drug	radical	antagonist	crystal	sulfate	enzyme	sugar	antagonist drug	
+drug	medicine	stimulant	stimulant drug	herbicide	steroid	herb	pesticide	antagonist	antagonist drug	pharmaceutical	pharmaceutical drug	steroid hormone	
+therapy	treatment	procedure	introduction	intervention	drug	attention	medicine	
+bond	reaction	function	connection	join	intersection	coupling	joining	mixture	interface	intersection point	reaction mechanism	reaction mixture	
+tension	strain	stress	sickness	state	disorder	anxiety	illness	nerves	anxiety state	trouble	anxiety disorder	
+radical	protein	bond	acid	sugar	nitrogen	steroid	enzyme	constituent	steroid hormone	
+rejection	disease	failure	reaction	sickness	response	disorder	resistance	illness	
+disease	disorder	illness	sickness	diabetes	pneumonia	state	infection	hypertension	inflammation	
+disease	illness	disorder	sickness	state	anomaly	defect	epilepsy	dementia	pathology	
+disease	injury	disorder	illness	damage	diabetes	stroke	inflammation	sickness	trauma	
+organ	nerve	fibre	fibre bundle	nerves	faculty	fiber	fiber bundle	nerve bundle	tendon	bone	tissue	nerve fiber	bone tissue	nerve fibre	nerve tissue	faculty member	tissue layer	bone structure	bone part	nerve ending	nerve cell	
+state	ratio	specifications	oxygen	level	extent	density	disease	degree	ratio value	
+investigation	reasoning	enquiry	thinking	inquiry	investigating	reflection	computation	research	methodology	
+diet	intake	dietary	feed	vegetarian	protein	vegetarian diet	eating	consumption	dietary intake	one	protein diet	eating disorder	feed back	
+disease	lump	tumor	growth	cancer	carcinoma	disorder	illness	pathology	anomaly	pathology diagnosis	
+disease	state	sickness	illness	disorder	pain	anomaly	syndrome	inflammation	finding	pain disorder	pain sensation	
+procedure	introduction	intake	participation	removal	intervention	consumption	administration	exercise	addition	exercise regime	exercise therapy	
+trouble	distress	hurting	difficulty	disorder	hurt	cry	pain	peril	misfortune	pain sensation	pain disorder	
+drug	acid	salt	crystal	antagonist	protein	sulfate	antagonist drug	radical	carrier	enzyme	carrier protein	enzyme inhibitor	
+organ	hemisphere	bone	liver	brain	lobe	anatomy	bone structure	bone part	bone tissue	brain part	brain structure	brain tissue	liver structure	liver function	liver tissue	brain region	
+sulfate	salt	crystal	silica	abrasive	calcium	calcium sulfate	sodium	sodium sulfate	stone	base	drug	base metal	
